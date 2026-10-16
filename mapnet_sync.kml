@@ -79341,7 +79341,7 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B001* / C8E1S1P6AT6.10</name>
+          <name>RIA-B001* / C8E1S1P5AT6.10</name>
           <description>
             <![CDATA[F 11
 1/8
@@ -79349,7 +79349,7 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
 --- KEYS ---
 ID: d9e97a42-5381-4e84-9f1b-f46ecd4fbbc2
 TYPE: CTO
-TIMESTAMP: 2026-06-08T15:23:51.119506
+TIMESTAMP: 2026-10-16T15:35:11.131415
 COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
@@ -79363,14 +79363,14 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B002 / C8E1S1P6AT6.11</name>
+          <name>RIA-B002 / C8E1S1P5AT6.11</name>
           <description>
             <![CDATA[1/8
 
 --- KEYS ---
 ID: 7ee61aac-0f7c-43d2-a0a8-5e4919fdf2b7
 TYPE: CTO
-TIMESTAMP: 2026-06-08T15:24:03.635614
+TIMESTAMP: 2026-10-16T15:35:24.832101
 COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
@@ -79384,14 +79384,14 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B003* / C8E1S1P6AT6.7</name>
+          <name>RIA-B003* / C8E1S1P5AT6.7</name>
           <description>
             <![CDATA[1/8
 
 --- KEYS ---
 ID: d7cc51b2-476d-44cd-a434-f0c630883dd2
 TYPE: CTO
-TIMESTAMP: 2026-06-08T15:15:29.361662
+TIMESTAMP: 2026-10-16T15:34:44.800751
 COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
@@ -79405,14 +79405,14 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B004* / C8E1S1P6AT6.8</name>
+          <name>RIA-B004* / C8E1S1P5AT6.8</name>
           <description>
             <![CDATA[1/8
 
 --- KEYS ---
 ID: ac49e9aa-a128-4b0c-bb9f-2d7317859d96
 TYPE: CTO
-TIMESTAMP: 2026-06-08T15:23:08.008666
+TIMESTAMP: 2026-10-16T15:34:32.700270
 COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
@@ -79426,7 +79426,7 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B005 / C8E1S1P6AT6.1</name>
+          <name>RIA-B005 / C8E1S1P5AT6.1</name>
           <description>
             <![CDATA[1x8
 F10
@@ -79434,7 +79434,7 @@ F10
 --- KEYS ---
 ID: bf073ab3-350b-461e-acc4-2721436718f0
 TYPE: CTO
-TIMESTAMP: 2026-06-08T14:48:58.135707
+TIMESTAMP: 2026-10-16T15:33:22.624784
 COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
@@ -79448,7 +79448,7 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B006 / C8E1S1P6AT6.3</name>
+          <name>RIA-B006 / C8E1S1P5AT6.3</name>
           <description>
             <![CDATA[1/16
 F9
@@ -79456,7 +79456,7 @@ F9
 --- KEYS ---
 ID: 6abaccaa-697f-41db-b46a-2a131f50ae75
 TYPE: CTO
-TIMESTAMP: 2026-06-08T15:06:58.727451
+TIMESTAMP: 2026-10-16T15:35:41.244132
 COR: #ff1976d2
 PORTAS: 16
 SPLITTER: 1:16
@@ -79470,14 +79470,14 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B007 / C8E1S1P6AT6.4</name>
+          <name>RIA-B007 / C8E1S1P5AT6.4</name>
           <description>
             <![CDATA[1/8
 
 --- KEYS ---
 ID: 6e6482d1-6592-42fd-9b01-1df6af006980
 TYPE: CTO
-TIMESTAMP: 2026-06-08T15:06:20.367657
+TIMESTAMP: 2026-10-16T15:35:53.334825
 COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
@@ -79491,7 +79491,7 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B008 / C8E1S1P6AT6.5</name>
+          <name>RIA-B008 / C8E1S1P5AT6.5</name>
           <description>
             <![CDATA[1x8
 F11
@@ -79499,7 +79499,7 @@ F11
 --- KEYS ---
 ID: 6ed6e001-022e-448b-aabf-5b5714e49ee9
 TYPE: CTO
-TIMESTAMP: 2026-06-08T15:14:57.771476
+TIMESTAMP: 2026-10-16T15:33:41.217054
 COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
@@ -79513,7 +79513,7 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B009 / C8E1S1P6AT6.6</name>
+          <name>RIA-B009 / C8E1S1P5AT6.6</name>
           <description>
             <![CDATA[1/16
 F 12
@@ -79521,7 +79521,7 @@ F 12
 --- KEYS ---
 ID: d2de42e7-9641-4441-8619-c8c0d2037681
 TYPE: CTO
-TIMESTAMP: 2026-06-08T15:15:07.516336
+TIMESTAMP: 2026-10-16T15:33:59.781874
 COR: #ff1976d2
 PORTAS: 16
 SPLITTER: 1:16
@@ -79535,12 +79535,12 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>RIA-B010* / C8E1S1P6AT6.9</name>
+          <name>RIA-B010* / C8E1S1P5AT6.9</name>
           <description>
             <![CDATA[--- KEYS ---
 ID: 528108c1-3cb1-41a6-9ee5-5e8eed02a713
 TYPE: CTO
-TIMESTAMP: 2026-06-08T15:23:33.699933
+TIMESTAMP: 2026-10-16T15:34:59.624787
 COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
@@ -79589,23 +79589,23 @@ SD09 RIACHO REDE A PON03
 SD10 REDE PISTA PON01
 SD11 REDE GOLE PON02
 SD12 REDE LECO PON04
-SD13
-SD14
-SD15
-SD16
-SD17
+SD13 LIVRE
+SD14 LIVRE
+SD15 AT03 S1P3 (REDE GOLE)
+SD16 AT04 S1PREDE CASCALHEIRA
+SD17 AT05 REDE PASTORA
 SD18
 SD19
 SD20
 SD21
-SD22
-SD23
-SD24
+SD22 AT07 REDE OLH-A
+SD23 AT08 REDE OLH-B
+SD24 AT09 REDE P. D´ALHO
 
 --- KEYS ---
 ID: df8652c9-ba9d-4347-8d07-c7826b85b4c9
 TYPE: CENTRAL
-TIMESTAMP: 2026-06-08T11:16:02.126153
+TIMESTAMP: 2026-10-16T15:09:45.427827
 COR: #ff1976d2
 RACKS: 1
 RACK_1_NOME: Rack 1
@@ -79638,6 +79638,26 @@ COR: default]]>
           <styleUrl>#ceo</styleUrl>
           <Point>
             <coordinates>-38.569102473556995,-12.028286441392856,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>CEO 528 DER.C8</name>
+          <description>
+            <![CDATA[ADD CEO P/ DERIVAÇÃO
+
+--- KEYS ---
+ID: 1792178446014
+TYPE: CEO
+TIMESTAMP: 2026-10-16T16:20:46.014672
+COR: #ff050505
+TIPO: Aérea
+SPLITTERS_ATIVOS: 0
+
+FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
+          </description>
+          <styleUrl>#ceo</styleUrl>
+          <Point>
+            <coordinates>-38.54507675402518,-12.064973757274583,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -80368,11 +80388,11 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
             <![CDATA[--- KEYS ---
 ID: b088f6b4-b4a8-48d0-af4c-c4cfac9b3fc1
 TYPE: CABO
-TIMESTAMP: 2026-10-15T17:13:38.304860
-TIPO_FO: Marcação
-FIBRAS: 0
-TUBOS: 0
-FIBRAS_POR_TUBO: 0
+TIMESTAMP: 2026-10-16T14:30:48.685338
+TIPO_FO: 12FO
+FIBRAS: 12
+TUBOS: 2
+FIBRAS_POR_TUBO: 6
 INSTALACAO: Aéreo
 METRAGEM: 1028.00
 VINCULO_FIM: CEO:1792091111746
@@ -80391,11 +80411,11 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
             <![CDATA[--- KEYS ---
 ID: 7ba1cee8-d9a5-4870-8631-85a7c3e1580a
 TYPE: CABO
-TIMESTAMP: 2026-10-14T15:47:11.105810
-TIPO_FO: Marcação
-FIBRAS: 0
-TUBOS: 0
-FIBRAS_POR_TUBO: 0
+TIMESTAMP: 2026-10-16T15:03:07.445242
+TIPO_FO: 12FO
+FIBRAS: 12
+TUBOS: 2
+FIBRAS_POR_TUBO: 6
 INSTALACAO: Aéreo
 METRAGEM: 566.00
 VINCULO_FIM: CEO:66eb6a1b-44b1-40f5-9f88-97039437142c
@@ -80724,28 +80744,6 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>Marcador 618</name>
-          <description>
-            <![CDATA[--- KEYS ---
-ID: 67d3d2a2-5999-40a3-ae36-92cdf7aab952
-TYPE: CABO
-TIMESTAMP: 2023-04-18T00:31:27.000Z
-TIPO_FO: 24FO
-FIBRAS: 24
-TUBOS: 2
-FIBRAS_POR_TUBO: 12
-INSTALACAO: Aéreo
-METRAGEM: 124.00
-
-FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
-          </description>
-          <styleUrl>#cabo</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-38.565120063722134,-12.053126172610568,0 -38.565994799137115,-12.053161256277946,0 -38.56626134365797,-12.053163879355688,0 -38.56626134365797,-12.053163879355688,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>P/ REMOÇÃO</name>
           <description>
             <![CDATA[Segue de 8 a 12 c/ atendimento
@@ -81046,6 +81044,28 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-38.57463754713535,-12.02624778558231,0 -38.57504356652498,-12.02653668080701,0 -38.5758800804615,-12.026683259763754,0 -38.57657812535763,-12.027035114517318,0 -38.57780423015356,-12.027120700739122,0 -38.57853043824434,-12.027007897437255,0 -38.579114489257336,-12.027083318254782,0 -38.579114489257336,-12.027083318254782,0 -38.579114489257336,-12.027083318254782,0 -38.579114489257336,-12.027083318254782,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>RAMAL ?</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 67d3d2a2-5999-40a3-ae36-92cdf7aab952
+TYPE: CABO
+TIMESTAMP: 2026-10-16T16:12:28.560688
+TIPO_FO: 6FO
+FIBRAS: 6
+TUBOS: 2
+FIBRAS_POR_TUBO: 3
+INSTALACAO: Aéreo
+METRAGEM: 124.00
+
+FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.565120063722134,-12.053126172610568,0 -38.565994799137115,-12.053161256277946,0 -38.56626134365797,-12.053163879355688,0 -38.56626134365797,-12.053163879355688,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -81463,7 +81483,7 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-A001</name>
+          <name>OLH-A001 / C8E1S1P8AT7.1</name>
           <description>
             <![CDATA[2x8
 F 1,2
@@ -81471,13 +81491,13 @@ F 1,2
 --- KEYS ---
 ID: 704425b0-cf59-4aae-af7d-774023de284c
 TYPE: CTO
-TIMESTAMP: 2026-10-15T16:19:35.264105
+TIMESTAMP: 2026-10-16T16:07:41.168757
+COR: #ff1976d2
 PORTAS: 16
-SPLITTER: 2x8
+SPLITTER: 1:8
 LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -81485,7 +81505,7 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-A002</name>
+          <name>OLH-A002 / C8E1S1P8AT7.2</name>
           <description>
             <![CDATA[ATUAL
 2x8
@@ -81497,13 +81517,13 @@ F 3
 --- KEYS ---
 ID: dba717f5-cbf9-480b-9ab5-9eb09ad787be
 TYPE: CTO
-TIMESTAMP: 2026-09-24T08:39:38.489967
+TIMESTAMP: 2026-10-16T16:07:41.197161
+COR: #ff1976d2
 PORTAS: 16
 SPLITTER: 1:8
 LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -81511,7 +81531,7 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-A003</name>
+          <name>OLH-A003 / C8E1S1P8AT7.4</name>
           <description>
             <![CDATA[1/8
 F 2
@@ -81519,13 +81539,13 @@ F 2
 --- KEYS ---
 ID: 73459de4-24c6-4aee-a56d-63c92ee18424
 TYPE: CTO
-TIMESTAMP: 2026-10-15T15:57:03.712959
+TIMESTAMP: 2026-10-16T16:07:41.208190
+COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -81533,7 +81553,7 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-A004</name>
+          <name>OLH-A004 / C8E1S1P8AT7.3</name>
           <description>
             <![CDATA[1/16
 F 1
@@ -81541,13 +81561,13 @@ F 1
 --- KEYS ---
 ID: b8df7e21-6773-4292-84f5-2de0b9576425
 TYPE: CTO
-TIMESTAMP: 2026-10-15T15:56:42.907430
+TIMESTAMP: 2026-10-16T16:07:41.225190
+COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -81555,7 +81575,7 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-A005</name>
+          <name>OLH-A005 / C8E1S1P8AT7.6</name>
           <description>
             <![CDATA[1/8
 F 6
@@ -81563,13 +81583,13 @@ F 6
 --- KEYS ---
 ID: b9d06bc2-6624-426c-afb0-94f6f0bf5567
 TYPE: CTO
-TIMESTAMP: 2020-12-09T12:40:46.000Z
+TIMESTAMP: 2026-10-16T16:07:41.240874
+COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -81577,7 +81597,7 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-B001</name>
+          <name>OLH-B001 / C8E1S1P9AT8.1</name>
           <description>
             <![CDATA[2x8
 F 1,2
@@ -81588,13 +81608,13 @@ F 3,4,5,> 1,2,3
 --- KEYS ---
 ID: e137a36b-202f-4527-b8b9-284ee2733a94
 TYPE: CTO
-TIMESTAMP: 2020-12-28T17:25:46.000Z
+TIMESTAMP: 2026-10-16T16:07:41.257564
+COR: #ff1976d2
 PORTAS: 16
-SPLITTER: 2x8
+SPLITTER: 1:8
 LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -81602,7 +81622,7 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-B002</name>
+          <name>OLH-B002 / C8E1S1P9AT8.2</name>
           <description>
             <![CDATA[1/16
 F 2
@@ -81611,13 +81631,13 @@ F 1-1 OLH-B005 VERIFICAR POTENCIA
 --- KEYS ---
 ID: 279e68db-764f-4237-b86a-e9c10040fcb8
 TYPE: CTO
-TIMESTAMP: 2026-08-07T09:59:04.851578
+TIMESTAMP: 2026-10-16T16:09:55.046063
+COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -81625,20 +81645,21 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-B003</name>
+          <name>OLH-B003 / C8E1S1P9AT8.4</name>
           <description>
             <![CDATA[1/8
+F 3
 
 --- KEYS ---
 ID: 31ee1f9f-37e9-4335-b56c-04aade9c37b4
 TYPE: CTO
-TIMESTAMP: 2020-12-28T17:26:04.000Z
+TIMESTAMP: 2026-10-16T16:13:02.252258
+COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -81646,7 +81667,7 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-B004</name>
+          <name>OLH-B004 / C8E1S1P9AT8.5</name>
           <description>
             <![CDATA[F 1
 1/8
@@ -81655,13 +81676,13 @@ F 2 > 1
 --- KEYS ---
 ID: 95ac7d4f-dc41-4ef7-a590-77285ce13f92
 TYPE: CTO
-TIMESTAMP: 2020-12-28T17:26:28.000Z
+TIMESTAMP: 2026-10-16T16:10:59.247808
+COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -81669,7 +81690,7 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>OLH-B005</name>
+          <name>OLH-B005 / C8E1S1P9AT8.3</name>
           <description>
             <![CDATA[1/8
 F 1
@@ -81677,13 +81698,13 @@ F 1
 --- KEYS ---
 ID: fd7849d7-e4dc-4a97-8228-00c29b2b61a6
 TYPE: CTO
-TIMESTAMP: 2026-08-06T13:39:14.284350
+TIMESTAMP: 2026-10-16T16:10:19.334932
+COR: #ff1976d2
 PORTAS: 16
 SPLITTER: 1:16
-LANCADA: false
+LANCADA: true
 
-FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
-COR: default]]>
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
@@ -83189,14 +83210,14 @@ COR: default]]>
         </Point>
       </Placemark>
       <Placemark>
-        <name>CEO 526</name>
+        <name>CEO 526 SPL.C8 (PAU D´ALHO)</name>
         <description>
           <![CDATA[FUTURA CEO
 
 --- KEYS ---
 ID: 1792089874548
 TYPE: CEO
-TIMESTAMP: 2026-10-15T15:44:50.105838
+TIMESTAMP: 2026-10-16T16:23:08.942375
 COR: #ff050505
 TIPO: Aérea
 SPLITTERS_ATIVOS: 0
@@ -83223,25 +83244,22 @@ ENT3 4 DERIVAÇÕES
 ENT4 LIVRE
 
 -BANDEJA 1 BACK BONE
-F 1,2,3,4 - 1,2,3,4,
+F 1,2,3,6 - 1,2,3,4,
 F 5,6 SOBE P/ AT
 -BANDEJA 2 REDE A
-F 5
+F 4
 -BANDEJA 3 REDE B
-F 6
+F 5
 
 --- KEYS ---
 ID: 1792091111746
 TYPE: CEO
-TIMESTAMP: 2026-10-15T17:26:07.810365
+TIMESTAMP: 2026-10-16T16:34:02.314334
+COR: #ff050505
 TIPO: Aérea
-SPLITTERS_COUNT: 1
-SPLITTER_1: Splitter 1|8|0
-SPLITTERS_ATIVOS: 1
-SPLITTERS_CONFIG: 1x (8 slots)
+SPLITTERS_ATIVOS: 0
 
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818]]>
         </description>
         <styleUrl>#ceo</styleUrl>
         <Point>
@@ -143868,6 +143886,27 @@ COR: default]]>
       <styleUrl>#cto</styleUrl>
       <Point>
         <coordinates>-38.7197869643569,-11.887481359701688,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central 20 CORAÇÃO DE MARIA</name>
+      <description>
+        <![CDATA[--- KEYS ---
+ID: 7df858f6-c719-40ea-b873-c5ff832f324b
+TYPE: CENTRAL
+TIMESTAMP: 2026-10-16T14:28:17.507584
+RACKS: 1
+RACK_1_NOME: Rack 1
+RACK_1_OLTS: 1
+RACK_1_OLT_1_NOME: OLT 1
+RACK_1_OLT_1_SLOTS: 8
+RACK_1_OLT_1_PON: 128
+
+COR: default]]>
+      </description>
+      <styleUrl>#olt</styleUrl>
+      <Point>
+        <coordinates>-38.75195917654634,-12.246318786023515,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
