@@ -72624,7 +72624,7 @@ FOLDER_ID: 5ef0f940-6874-47cb-ac12-6276d1b2cdaf]]>
         </Data>
       </ExtendedData>
       <Folder>
-        <name>CENTRAL 06 MUTIRÃO (LOJA)</name>
+        <name>CENTRAL 06 POP LOJA</name>
         <ExtendedData>
           <Data name="MARKER_INFRA_FOLDER_ID">
             <value>82cfb29e-a569-40f9-a7a5-1b4c42d25178</value>
@@ -72633,7 +72633,7 @@ FOLDER_ID: 5ef0f940-6874-47cb-ac12-6276d1b2cdaf]]>
             <value>2026-01-23T16:30:17.680241</value>
           </Data>
           <Data name="MARKER_INFRA_FOLDER_UPDATED_AT">
-            <value>2026-01-23T16:30:17.680241</value>
+            <value>2026-10-21T14:36:31.491530</value>
           </Data>
         </ExtendedData>
         <Placemark>
@@ -73724,6 +73724,28 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
+          <name>C6E1S2P8AT6.7 (NE)</name>
+          <description>
+            <![CDATA[1/16
+F 1
+
+--- KEYS ---
+ID: 740fbbae-a7f5-4f1a-adcd-d9c351abe4a2
+TYPE: CTO
+TIMESTAMP: 2026-10-21T16:25:26.255987
+PORTAS: 16
+SPLITTER: 1:16
+LANCADA: false
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
+COR: default]]>
+          </description>
+          <styleUrl>#cto</styleUrl>
+          <Point>
+            <coordinates>-38.4983112587827,-12.094321900091439,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>C6E1S3P1AT17.1</name>
           <description>
             <![CDATA[1/8
@@ -74393,7 +74415,7 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>CT-A001</name>
+          <name>CT-A001 / C6E1S2P8AT6.1</name>
           <description>
             <![CDATA[1/16
 F 1
@@ -74401,7 +74423,7 @@ F 1
 --- KEYS ---
 ID: cecbb48c-86b6-41e6-936d-d3393adf3838
 TYPE: CTO
-TIMESTAMP: 2026-09-24T08:32:17.604261
+TIMESTAMP: 2026-10-21T16:19:51.512583
 COR: #ff795548
 PORTAS: 16
 SPLITTER: 1:16
@@ -74415,14 +74437,15 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>CT-A002</name>
+          <name>CT-A002 / C6E1S2P8AT6.2</name>
           <description>
-            <![CDATA[2x1/8
+            <![CDATA[2X8
+F 1,2 ?
 
 --- KEYS ---
 ID: 5961c7a4-c3ba-46d0-99d9-3fc30906fe4e
 TYPE: CTO
-TIMESTAMP: 2026-06-19T14:40:39.727189
+TIMESTAMP: 2026-10-21T16:20:34.416885
 COR: #ff795548
 PORTAS: 8
 SPLITTER: 1:8
@@ -74436,15 +74459,18 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>CT-A003</name>
+          <name>CT-A003 / C6E1S2P8AT6.3</name>
           <description>
-            <![CDATA[--- KEYS ---
+            <![CDATA[1/16
+F 3 ?
+
+--- KEYS ---
 ID: ccb49ea5-89b8-46ec-8ec7-edeccba6a07c
 TYPE: CTO
-TIMESTAMP: 2026-06-19T14:40:39.738541
+TIMESTAMP: 2026-10-21T16:21:30.358651
 COR: #ff795548
-PORTAS: 8
-SPLITTER: 1:8
+PORTAS: 16
+SPLITTER: 1:16
 LANCADA: true
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
@@ -74455,14 +74481,15 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>CT-A004</name>
+          <name>CT-A004 / C6E1S2P8AT6.4</name>
           <description>
             <![CDATA[1/16
+F 1
 
 --- KEYS ---
 ID: bc1bd4cf-47d8-4e9a-95ac-acdfadf956e7
 TYPE: CTO
-TIMESTAMP: 2026-06-19T14:40:39.751875
+TIMESTAMP: 2026-10-21T16:22:11.608339
 COR: #ff795548
 PORTAS: 16
 SPLITTER: 1:16
@@ -74476,24 +74503,19 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>CT-A005</name>
+          <name>CT-A005 / C6E1S2P8AT6.5</name>
           <description>
-            <![CDATA[ATUAL
-2x8
-F 2,3
-F 4-1
-MUDAR P/ 
-1/16
+            <![CDATA[1/16
 F 2
 F 3,4 - 1,2
 
 --- KEYS ---
 ID: c4ced097-f48b-4722-af05-2458a4d7730f
 TYPE: CTO
-TIMESTAMP: 2026-09-24T08:35:10.913656
+TIMESTAMP: 2026-10-21T16:22:53.775501
 COR: #ff795548
-PORTAS: 8
-SPLITTER: 1:8
+PORTAS: 16
+SPLITTER: 1:16
 LANCADA: true
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
@@ -74504,15 +74526,16 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>CT-A006</name>
+          <name>CT-A006 / C6E1S2P8AT6.6</name>
           <description>
             <![CDATA[1/16
 F 1
+F 2 LIVRE
 
 --- KEYS ---
 ID: af296b33-8b5d-41d4-9634-bb3c99f20c3c
 TYPE: CTO
-TIMESTAMP: 2026-09-24T08:34:10.651091
+TIMESTAMP: 2026-10-21T16:24:34.590527
 COR: #ff795548
 PORTAS: 16
 SPLITTER: 1:16
@@ -74526,7 +74549,7 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>CT-B1 / C6E1S2P9AT9.1</name>
+          <name>CT-B1 / C6E1S2P?AT9.1</name>
           <description>
             <![CDATA[1/8
 F 2>1X2 F 1 ? CONFIRMAR CENARIO
@@ -74534,7 +74557,7 @@ F 2>1X2 F 1 ? CONFIRMAR CENARIO
 --- KEYS ---
 ID: 979cd98f-cfd6-498f-96b0-35ede5194309
 TYPE: CTO
-TIMESTAMP: 2026-10-05T15:36:59.694757
+TIMESTAMP: 2026-10-21T16:15:07.952563
 COR: #ff795548
 PORTAS: 8
 SPLITTER: 1:8
@@ -74813,6 +74836,101 @@ COR: default]]>
           <styleUrl>#cto</styleUrl>
           <Point>
             <coordinates>-38.49814548112695,-12.086424106350833,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>CTO 2075</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 71257d0a-9354-4c88-aaa3-538afd9f1ad3
+TYPE: CTO
+TIMESTAMP: 2026-10-21T15:08:37.327116
+PORTAS: 8
+SPLITTER: 1:8
+LANCADA: false
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
+COR: default]]>
+          </description>
+          <styleUrl>#cto</styleUrl>
+          <Point>
+            <coordinates>-38.501592250888585,-12.086454239315733,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>CTO 2076</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: d5899eed-aa70-47c0-ba16-e246c770ce97
+TYPE: CTO
+TIMESTAMP: 2026-10-21T15:49:01.004925
+PORTAS: 8
+SPLITTER: 1:8
+LANCADA: true
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
+COR: default]]>
+          </description>
+          <styleUrl>#cto</styleUrl>
+          <Point>
+            <coordinates>-38.51996498282342,-12.070263350987563,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>CTO 2077</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 08a0121e-2a9f-43a7-a21a-e81b9674bddb
+TYPE: CTO
+TIMESTAMP: 2026-10-21T15:59:29.921301
+PORTAS: 8
+SPLITTER: 1:8
+LANCADA: false
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
+COR: default]]>
+          </description>
+          <styleUrl>#cto</styleUrl>
+          <Point>
+            <coordinates>-38.49852175785308,-12.07947682281035,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>CTO 2078</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 4f46c37e-8961-4b44-9aaa-8733a1f25b7f
+TYPE: CTO
+TIMESTAMP: 2026-10-21T15:59:17.466570
+PORTAS: 8
+SPLITTER: 1:8
+LANCADA: false
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
+COR: default]]>
+          </description>
+          <styleUrl>#cto</styleUrl>
+          <Point>
+            <coordinates>-38.49861108404227,-12.081957956393087,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>CTO 2079</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 9ce74a36-a058-454c-8704-d75d2c2af6b6
+TYPE: CTO
+TIMESTAMP: 2026-10-21T16:00:04.541765
+PORTAS: 8
+SPLITTER: 1:8
+LANCADA: false
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
+COR: default]]>
+          </description>
+          <styleUrl>#cto</styleUrl>
+          <Point>
+            <coordinates>-38.49865636831356,-12.084036251472863,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -75204,7 +75322,7 @@ COR: default]]>
 - BANDEJA 1 ROTA ALAGOINHAS
 - GRUPO 1 
 SD01 F1 CHEGADA LINK ALAG.
-SD02 F2 REDE A COQUEIRO S2P3 ?
+SD02 F2 REDE A COQUEIRO S2P3 
 SD03 F3 
 SD04 F4
 SD05 F5 REDE BQ. VERDE S2P4
@@ -75285,12 +75403,12 @@ SD12 F12
 --- KEYS ---
 ID: d269f42a-e06b-425a-a5b9-5d46548bd11d
 TYPE: CENTRAL
-TIMESTAMP: 2026-06-29T10:04:28.319567
+TIMESTAMP: 2026-10-21T14:52:40.104726
 COR: #ff795548
 RACKS: 1
 RACK_1_NOME: Rack 1
 RACK_1_OLTS: 1
-RACK_1_OLT_1_NOME: ZTE C 300 SLOT 2,3D.I.O
+RACK_1_OLT_1_NOME: ZTE C 350 8 SLOT
 RACK_1_OLT_1_SLOTS: 2
 RACK_1_OLT_1_PON: 32
 RACK_1_OLT_1_FABRICANTE: ZTE
@@ -75299,7 +75417,7 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#olt</styleUrl>
           <Point>
-            <coordinates>-38.49729827864277,-12.088214123780201,0</coordinates>
+            <coordinates>-38.49731838979318,-12.08824263415625,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -75313,14 +75431,14 @@ ENT5 LINK CENTRO / VOANET
 F 1,2,4,5,6 - 1,2,4,5,6 FUNDO POSTO
 F 3-1 COMERCIO
 F 7,8,9,10 - 2,3,4,5 CEMITÉRIO
-F 1 LIVRE
 F 11 - 1 LAGOA SECA INVERTIDO
 F 1-1 VOA NET INVERTIDO
+F 12 LIVRE
 
 --- KEYS ---
 ID: a8e6c72a-abe7-4d4a-af44-f00afe3a5bb0
 TYPE: CEO
-TIMESTAMP: 2026-06-18T17:23:07.547022
+TIMESTAMP: 2026-10-21T15:56:47.762271
 TIPO: Aérea
 SPLITTERS_ATIVOS: 0
 
@@ -75405,9 +75523,12 @@ ARAM-CEO01
 --- KEYS ---
 ID: 84690580-337c-4811-90ff-e88abcdeeb74
 TYPE: CEO
-TIMESTAMP: 2020-09-15T14:43:22.000Z
+TIMESTAMP: 2026-10-21T16:15:59.396839
 TIPO: Aérea
-SPLITTERS_ATIVOS: 0
+SPLITTERS_COUNT: 1
+SPLITTER_1: Splitter 1|8|0
+SPLITTERS_ATIVOS: 1
+SPLITTERS_CONFIG: 1x (8 slots)
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
 COR: default]]>
@@ -75478,6 +75599,51 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
+          <name>CEO 529 DER.C6</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 1792605562716
+TYPE: CEO
+TIMESTAMP: 2026-10-21T14:59:22.716459
+TIPO: Aérea
+SPLITTERS_ATIVOS: 0
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
+COR: default]]>
+          </description>
+          <styleUrl>#ceo</styleUrl>
+          <Point>
+            <coordinates>-38.504095537484254,-12.08431575345478,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>CEO 530 DER.C6 (FAZ DE RENAN)</name>
+          <description>
+            <![CDATA[ENT1 LINK CHEGADA
+ENT2 LIVRE
+ENT3 LIVRE
+ENT4 LINK SAÍDA
+
+-BANDEJA 1
+12FS OK
+
+--- KEYS ---
+ID: 1792606556541
+TYPE: CEO
+TIMESTAMP: 2026-10-21T15:16:50.451726
+TIPO: Aérea
+NUMERO: FIBRACEM SVT 
+SPLITTERS_ATIVOS: 0
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
+COR: default]]>
+          </description>
+          <styleUrl>#ceo</styleUrl>
+          <Point>
+            <coordinates>-38.50593526726975,-12.079987143665209,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>CEO DE EMENDA</name>
           <description>
             <![CDATA[--- KEYS ---
@@ -75521,29 +75687,25 @@ COR: default]]>
 -DER2 LIVRE
 ENT2 LIVRE
 ENT3 8 DERIVAÇÕES (TAMBOR)
+-1DER. CABO 12FO LINK CENTRO
 ENT4 2 DERIVAÇÕES
 -DER1 CABO 1 24FO RT PEDRÃO
 -DER2 CABO 2 24FO RT ALAGOINHAS
 
 -BANDEJA 1 C72FO D.I.O X C24FO.ASU RT ALAGOINHAS
-GRUPO 1 / F 1,2,3,4,5,6,7,8,9,10,11,12
-GRUPO 2 / F 13,14,15,16,17,18,19,20,21,22,23,24
+GRUPO 1 / F 1,2,3,4,5,6,7,8,9,10,11,12 OK
+GRUPO 2 / F 13,14 OK (FINALIZAR)
 -BANDEJA 2 C72FO D.I.O X C24FO.AS RT PEDRÃO
 GRUPO 3 / G1,G2
+F 9,10,11 OK (FINALIZAR)
 GRUPO 4 / G3,G4
 -BANDEJA 3 C72FO D.I.O X C12FO CENTRO
-GRUPO 5 / C12FO 12FS
-
-- INFORMAÇÕES ATUAIS-
-G1 F 2,3,4,5,6,7,8,9,10 - 2,3,4,5,6,7,8,9,10
-F 1 PRIMEIRO GRUPO E F 1 SEGUNDO GRUPO ESTÃO INVERTIDA
-F 1 1°GRUPO NA F 11 LINK L.SECA
-F 1 2°GRUPO NA F 1 SUAP VOANET
+GRUPO 5 / C12FO 12FS OK
 
 --- KEYS ---
 ID: bba0e611-58a2-4603-af2b-2c197dce87f4
 TYPE: CEO
-TIMESTAMP: 2026-07-09T14:44:21.935750
+TIMESTAMP: 2026-10-21T14:48:38.230583
 TIPO: Aérea
 NUMERO: CEO OPTIMAL
 SPLITTERS_ATIVOS: 0
@@ -75918,8 +76080,8 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           <name>CEO.SPL MUTIRÃO</name>
           <description>
             <![CDATA[ENT1 2 DERIVAÇÕES
--DER1 CABO 24FO.ASU LINK LOJA
--DER2 CABO 12 FO ALAG.
+-DER1 CABO 12FO ALAG.
+-DER2 CABO 24FO.ASU LINK LOJA
 ENT2 LIVRE
 ENT3 4 DERIVAÇÕES
 -DER1 LIVRE
@@ -75931,15 +76093,12 @@ ENT4 LIVRE
 -BANDEJA 1 (BACK BONE)
 C24  / C12FO
 F 1 A 12 - F 1 A 12
-F 13,14 SOBE P/AT
--BANDEJA 2
-F 13 - 1 REDE MT-A 2FO
-F 14 - 2 REDE MT-B 2FO
+F 13,14 - 1,2 CABO 2FO
 
 --- KEYS ---
 ID: fa336015-86a7-4c67-8462-bcb2a6bca700
 TYPE: CEO
-TIMESTAMP: 2026-10-20T17:12:48.873991
+TIMESTAMP: 2026-10-21T14:31:20.612873
 TIPO: Aérea
 NUMERO: CEO SVT
 SPLITTERS_ATIVOS: 0
@@ -75949,7 +76108,7 @@ COR: default]]>
           </description>
           <styleUrl>#ceo</styleUrl>
           <Point>
-            <coordinates>-38.48370917065256,-12.084103122373739,0</coordinates>
+            <coordinates>-38.483724383214984,-12.084105311379036,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -76085,12 +76244,12 @@ SUAP VOANET ANTIGO
 --- KEYS ---
 ID: b0cc4845-4d25-447b-bf56-1f385b75a265
 TYPE: CEO
-TIMESTAMP: 2026-06-18T16:09:39.071089
+TIMESTAMP: 2026-10-21T14:57:00.842486
+COR: #fff44336
 TIPO: Aérea
 SPLITTERS_ATIVOS: 0
 
-FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
-COR: default]]>
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#ceo</styleUrl>
           <Point>
@@ -76181,30 +76340,12 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>MT-CEO01 P/REMOÇÃO</name>
-          <description>
-            <![CDATA[--- KEYS ---
-ID: 891bd039-8758-49ad-bc27-51e4c25d7873
-TYPE: CEO
-TIMESTAMP: 2026-06-19T14:28:05.377226
-TIPO: Aérea
-SPLITTERS_ATIVOS: 0
-
-FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178
-COR: default]]>
-          </description>
-          <styleUrl>#ceo</styleUrl>
-          <Point>
-            <coordinates>-38.48381794989109,-12.083780661715378,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
           <name>MT-CEP01</name>
           <description>
             <![CDATA[--- KEYS ---
 ID: 6e2a6a3b-9147-4ea0-a10e-160bae9e2b4e
 TYPE: CEO
-TIMESTAMP: 2026-06-18T15:29:06.139690
+TIMESTAMP: 2026-10-21T14:27:52.451870
 TIPO: Aérea
 SPLITTERS_COUNT: 1
 SPLITTER_1: Splitter 1|8|0
@@ -76222,25 +76363,25 @@ COR: default]]>
         <Placemark>
           <name>ATENDIMENTO</name>
           <description>
-            <![CDATA[2FO
+            <![CDATA[4FO
 
 --- KEYS ---
-ID: 0b7607c7-693c-44f5-826e-572b1b5ad4d6
+ID: 214c711d-a442-47a4-ad02-753ca1e38742
 TYPE: CABO
 TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 2FO
-FIBRAS: 2
+TIPO_FO: 4FO
+FIBRAS: 4
 TUBOS: 2
-FIBRAS_POR_TUBO: 1
+FIBRAS_POR_TUBO: 2
 INSTALACAO: Aéreo
-METRAGEM: 149.00
+METRAGEM: 143.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.47636107355356,-12.088536371785251,0 -38.476801961660385,-12.088770778306063,0 -38.47711142152548,-12.087975762350046,0</coordinates>
+            <coordinates>-38.497228659689426,-12.09019688348201,0 -38.49762797355652,-12.088963220988495,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -76249,7 +76390,7 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
             <![CDATA[4FO
 
 --- KEYS ---
-ID: 7061fa11-2809-43bc-a65c-9a3055c0b53a
+ID: 65c8d8bb-72d5-458c-a723-c87b836f2407
 TYPE: CABO
 TIMESTAMP: 2026-01-23T19:30:03.000Z
 TIPO_FO: 4FO
@@ -76257,14 +76398,14 @@ FIBRAS: 4
 TUBOS: 2
 FIBRAS_POR_TUBO: 2
 INSTALACAO: Aéreo
-METRAGEM: 247.00
+METRAGEM: 144.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.501365296542645,-12.091442998125093,0 -38.502132408320904,-12.091448243530948,0 -38.50253339856862,-12.091496763530227,0 -38.50250858813524,-12.092168830182286,0 -38.50241772830486,-12.09256715181553,0</coordinates>
+            <coordinates>-38.48300389945507,-12.083582969745578,0 -38.4828832000494,-12.08410391891688,0 -38.48234374076128,-12.084146866852398,0 -38.482314571738236,-12.084380293679141,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -76273,7 +76414,7 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
             <![CDATA[2FO
 
 --- KEYS ---
-ID: ae605fa8-35c7-45c4-bf07-ec211ed072b1
+ID: 3954057b-0515-4343-a1f9-73477c9feecc
 TYPE: CABO
 TIMESTAMP: 2026-01-23T19:30:03.000Z
 TIPO_FO: 2FO
@@ -76281,14 +76422,14 @@ FIBRAS: 2
 TUBOS: 2
 FIBRAS_POR_TUBO: 1
 INSTALACAO: Aéreo
-METRAGEM: 347.00
+METRAGEM: 179.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.483500108122826,-12.082072572048927,0 -38.48374083638191,-12.081233932096334,0 -38.48254591226578,-12.081176886124512,0 -38.48218649625778,-12.082215514327629,0</coordinates>
+            <coordinates>-38.50051738321781,-12.093808337890252,0 -38.501238226890564,-12.093784078101422,0 -38.50134249776602,-12.09420698491592,0 -38.50086808204651,-12.094239440527538,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -76319,11 +76460,11 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
             <![CDATA[--- KEYS ---
 ID: cd2279b4-618c-4ff2-9d3b-cace6086f866
 TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 24FO
-FIBRAS: 24
+TIMESTAMP: 2026-10-21T16:23:41.573726
+TIPO_FO: 4FO
+FIBRAS: 4
 TUBOS: 2
-FIBRAS_POR_TUBO: 12
+FIBRAS_POR_TUBO: 2
 INSTALACAO: Aéreo
 METRAGEM: 196.00
 
@@ -76578,25 +76719,25 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
         <Placemark>
           <name>ATENDIMENTO</name>
           <description>
-            <![CDATA[6FO
+            <![CDATA[2FO
 
 --- KEYS ---
-ID: 306ec2a4-b574-4171-9d24-b05c2906dea8
+ID: ae605fa8-35c7-45c4-bf07-ec211ed072b1
 TYPE: CABO
 TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 6FO
-FIBRAS: 6
+TIPO_FO: 2FO
+FIBRAS: 2
 TUBOS: 2
-FIBRAS_POR_TUBO: 3
+FIBRAS_POR_TUBO: 1
 INSTALACAO: Aéreo
-METRAGEM: 157.00
+METRAGEM: 347.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.49762126803398,-12.091082048387713,0 -38.49764809012413,-12.090959108992648,0 -38.49719814956188,-12.091032872636468,0 -38.497228659689426,-12.09019688348201,0</coordinates>
+            <coordinates>-38.483500108122826,-12.082072572048927,0 -38.48374083638191,-12.081233932096334,0 -38.48254591226578,-12.081176886124512,0 -38.48218649625778,-12.082215514327629,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -76626,25 +76767,25 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
         <Placemark>
           <name>ATENDIMENTO</name>
           <description>
-            <![CDATA[2FO
+            <![CDATA[6FO
 
 --- KEYS ---
-ID: 3954057b-0515-4343-a1f9-73477c9feecc
+ID: 306ec2a4-b574-4171-9d24-b05c2906dea8
 TYPE: CABO
 TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 2FO
-FIBRAS: 2
+TIPO_FO: 6FO
+FIBRAS: 6
 TUBOS: 2
-FIBRAS_POR_TUBO: 1
+FIBRAS_POR_TUBO: 3
 INSTALACAO: Aéreo
-METRAGEM: 179.00
+METRAGEM: 157.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.50051738321781,-12.093808337890252,0 -38.501238226890564,-12.093784078101422,0 -38.50134249776602,-12.09420698491592,0 -38.50086808204651,-12.094239440527538,0</coordinates>
+            <coordinates>-38.49762126803398,-12.091082048387713,0 -38.49764809012413,-12.090959108992648,0 -38.49719814956188,-12.091032872636468,0 -38.497228659689426,-12.09019688348201,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -76749,6 +76890,30 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
             <![CDATA[4FO
 
 --- KEYS ---
+ID: 7061fa11-2809-43bc-a65c-9a3055c0b53a
+TYPE: CABO
+TIMESTAMP: 2026-01-23T19:30:03.000Z
+TIPO_FO: 4FO
+FIBRAS: 4
+TUBOS: 2
+FIBRAS_POR_TUBO: 2
+INSTALACAO: Aéreo
+METRAGEM: 247.00
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.501365296542645,-12.091442998125093,0 -38.502132408320904,-12.091448243530948,0 -38.50253339856862,-12.091496763530227,0 -38.50250858813524,-12.092168830182286,0 -38.50241772830486,-12.09256715181553,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>ATENDIMENTO</name>
+          <description>
+            <![CDATA[4FO
+
+--- KEYS ---
 ID: 98bb43ad-ad75-4f80-af89-e2eb0bdbb75c
 TYPE: CABO
 TIMESTAMP: 2026-09-21T16:01:55.257398
@@ -76765,30 +76930,6 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-38.49888145087488,-12.093204480098873,0 -38.49731796741578,-12.092988257712593,0 -38.49738724529743,-12.09257075801691,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>ATENDIMENTO</name>
-          <description>
-            <![CDATA[4FO
-
---- KEYS ---
-ID: 65c8d8bb-72d5-458c-a723-c87b836f2407
-TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 4FO
-FIBRAS: 4
-TUBOS: 2
-FIBRAS_POR_TUBO: 2
-INSTALACAO: Aéreo
-METRAGEM: 144.00
-
-FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
-          </description>
-          <styleUrl>#cabo</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-38.48300389945507,-12.083582969745578,0 -38.4828832000494,-12.08410391891688,0 -38.48234374076128,-12.084146866852398,0 -38.482314571738236,-12.084380293679141,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -76847,20 +76988,21 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
 --- KEYS ---
 ID: a191ea6f-422e-487d-9b14-6fd36bdc86d7
 TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
+TIMESTAMP: 2026-10-14T15:47:11.081892
 TIPO_FO: 4FO
 FIBRAS: 4
 TUBOS: 2
 FIBRAS_POR_TUBO: 2
 INSTALACAO: Aéreo
 METRAGEM: 218.00
+VINCULO_FIM: CTO:979cd98f-cfd6-498f-96b0-35ede5194309
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.498155027627945,-12.086405721837973,0 -38.498099371790886,-12.086737827646722,0 -38.49807657301426,-12.087681032123186,0 -38.497975654900074,-12.087994121508046,0 -38.497603833675385,-12.088052149552754,0</coordinates>
+            <coordinates>-38.498155027627945,-12.086405721837973,0 -38.498099371790886,-12.086737827646722,0 -38.49807657301426,-12.087681032123186,0 -38.49792534111101,-12.087990559196577,0 -38.497541036085735,-12.08810524993165,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -76914,25 +77056,25 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
         <Placemark>
           <name>ATENDIMENTO</name>
           <description>
-            <![CDATA[6FO
+            <![CDATA[4FO
 
 --- KEYS ---
-ID: aaf3955b-076a-4b0d-8ac7-ff4da2690781
+ID: 2dc299d6-0f04-4a7b-91ba-58de67523b6b
 TYPE: CABO
-TIMESTAMP: 2026-09-21T16:01:55.263264
-TIPO_FO: 6FO
-FIBRAS: 6
+TIMESTAMP: 2026-01-23T19:30:03.000Z
+TIPO_FO: 4FO
+FIBRAS: 4
 TUBOS: 2
-FIBRAS_POR_TUBO: 3
+FIBRAS_POR_TUBO: 2
 INSTALACAO: Aéreo
-METRAGEM: 166.00
+METRAGEM: 176.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.4976202622056,-12.091082048387713,0 -38.49753811955452,-12.091454472450275,0 -38.49738724529743,-12.09257075801691,0</coordinates>
+            <coordinates>-38.48301362246274,-12.083578052033035,0 -38.48349876701832,-12.082064703664395,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -76962,49 +77104,49 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
         <Placemark>
           <name>ATENDIMENTO</name>
           <description>
-            <![CDATA[4FO
+            <![CDATA[6FO
 
 --- KEYS ---
-ID: e7ff8f1e-6031-4e30-bcc6-a81c3e240c60
+ID: aaf3955b-076a-4b0d-8ac7-ff4da2690781
 TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 4FO
-FIBRAS: 4
+TIMESTAMP: 2026-09-21T16:01:55.263264
+TIPO_FO: 6FO
+FIBRAS: 6
 TUBOS: 2
-FIBRAS_POR_TUBO: 2
+FIBRAS_POR_TUBO: 3
 INSTALACAO: Aéreo
-METRAGEM: 294.00
+METRAGEM: 166.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.50066624581814,-12.086840442684917,0 -38.50158993154764,-12.086456209815728,0 -38.501867204904556,-12.08631917099681,0 -38.501945324242115,-12.086199835700203,0 -38.50250154733658,-12.085776588381167,0 -38.502999767661095,-12.085598240743394,0</coordinates>
+            <coordinates>-38.4976202622056,-12.091082048387713,0 -38.49753811955452,-12.091454472450275,0 -38.49738724529743,-12.09257075801691,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
           <name>ATENDIMENTO</name>
           <description>
-            <![CDATA[4FO
+            <![CDATA[2FO
 
 --- KEYS ---
-ID: 11c227cd-a5d8-4dd3-806e-bc8b703e4e9b
+ID: 0b7607c7-693c-44f5-826e-572b1b5ad4d6
 TYPE: CABO
 TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 4FO
-FIBRAS: 4
+TIPO_FO: 2FO
+FIBRAS: 2
 TUBOS: 2
-FIBRAS_POR_TUBO: 2
+FIBRAS_POR_TUBO: 1
 INSTALACAO: Aéreo
-METRAGEM: 86.00
+METRAGEM: 149.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.50116245448589,-12.09276582065531,0 -38.501162119209766,-12.091983930062014,0</coordinates>
+            <coordinates>-38.47636107355356,-12.088536371785251,0 -38.476801961660385,-12.088770778306063,0 -38.47711142152548,-12.087975762350046,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -77037,7 +77179,7 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
             <![CDATA[4FO
 
 --- KEYS ---
-ID: 214c711d-a442-47a4-ad02-753ca1e38742
+ID: 11c227cd-a5d8-4dd3-806e-bc8b703e4e9b
 TYPE: CABO
 TIMESTAMP: 2026-01-23T19:30:03.000Z
 TIPO_FO: 4FO
@@ -77045,14 +77187,14 @@ FIBRAS: 4
 TUBOS: 2
 FIBRAS_POR_TUBO: 2
 INSTALACAO: Aéreo
-METRAGEM: 143.00
+METRAGEM: 86.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.497228659689426,-12.09019688348201,0 -38.49762797355652,-12.088963220988495,0</coordinates>
+            <coordinates>-38.50116245448589,-12.09276582065531,0 -38.501162119209766,-12.091983930062014,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -77061,7 +77203,7 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
             <![CDATA[4FO
 
 --- KEYS ---
-ID: 2dc299d6-0f04-4a7b-91ba-58de67523b6b
+ID: e7ff8f1e-6031-4e30-bcc6-a81c3e240c60
 TYPE: CABO
 TIMESTAMP: 2026-01-23T19:30:03.000Z
 TIPO_FO: 4FO
@@ -77069,14 +77211,14 @@ FIBRAS: 4
 TUBOS: 2
 FIBRAS_POR_TUBO: 2
 INSTALACAO: Aéreo
-METRAGEM: 176.00
+METRAGEM: 294.00
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.48301362246274,-12.083578052033035,0 -38.48349876701832,-12.082064703664395,0</coordinates>
+            <coordinates>-38.50066624581814,-12.086840442684917,0 -38.50158993154764,-12.086456209815728,0 -38.501867204904556,-12.08631917099681,0 -38.501945324242115,-12.086199835700203,0 -38.50250154733658,-12.085776588381167,0 -38.502999767661095,-12.085598240743394,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -77104,30 +77246,6 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>BACK BONE</name>
-          <description>
-            <![CDATA[12FO
-
---- KEYS ---
-ID: c6d2fa15-6401-4cf9-a716-874aad1fe0c6
-TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 12FO
-FIBRAS: 12
-TUBOS: 2
-FIBRAS_POR_TUBO: 6
-INSTALACAO: Aéreo
-METRAGEM: 43.00
-
-FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
-          </description>
-          <styleUrl>#cabo</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-38.483815267682076,-12.083774760464669,0 -38.48391953855753,-12.08340429279816,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
           <name>BACK BONE 12FO FUMAÇA</name>
           <description>
             <![CDATA[--- KEYS ---
@@ -77147,6 +77265,31 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-38.52413629161983,-12.09531662360609,0 -38.524575281191204,-12.095765464198275,0 -38.52514968506202,-12.096358764757998,0 -38.5255589506542,-12.096547209584696,0 -38.52607449764027,-12.09689005214423,0 -38.52664609828413,-12.097286200036564,0 -38.52705446290955,-12.097640040068924,0 -38.52741133712509,-12.098032744987636,0 -38.527796420796996,-12.098496904824977,0 -38.52809314066943,-12.098952481006686,0 -38.528378929813904,-12.099435892273322,0 -38.529072456071006,-12.099701164507472,0 -38.53046570101969,-12.100235618604437,0 -38.53124032773576,-12.10049860443744,0 -38.533482499447736,-12.101260047442405,0 -38.535736376982214,-12.101986903376064,0 -38.53588264528917,-12.102326023476408,0 -38.535996934543775,-12.102597186314984,0 -38.536241591388055,-12.102876267085472,0 -38.536644734160625,-12.10344805823628,0 -38.5371060730174,-12.10412980419394,0 -38.537503750426126,-12.104715510317266,0 -38.5378984196292,-12.105288797053012,0 -38.538365010239986,-12.106140739390634,0 -38.53880851778322,-12.10686286629411,0 -38.53909383603825,-12.107412717113435,0 -38.53844117865752,-12.107517121279741,0 -38.53712874806716,-12.10779285802,0 -38.535898414042684,-12.108059418545151,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>BACK BONE 12FO RT ALAGOINHAS</name>
+          <description>
+            <![CDATA[12FO
+
+--- KEYS ---
+ID: 59614e64-d548-4060-ab59-c9d684296ca8
+TYPE: CABO
+TIMESTAMP: 2026-10-14T15:47:11.088572
+TIPO_FO: 12FO
+FIBRAS: 12
+TUBOS: 2
+FIBRAS_POR_TUBO: 6
+INSTALACAO: Aéreo
+METRAGEM: 1395.00
+VINCULO_INICIO: CEO:fa336015-86a7-4c67-8462-bcb2a6bca700
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.483724383214984,-12.084105311379036,0 -38.483300283551216,-12.084105558151187,0 -38.483244460076094,-12.084103754993407,0 -38.48318863660097,-12.084101951835628,0 -38.483076989650726,-12.084098345520069,0 -38.48285369575024,-12.084091132888949,0 -38.48233602941037,-12.084132769439217,0 -38.48142709583044,-12.084145227618345,0 -38.481184020638466,-12.084036710301666,0 -38.479469418525696,-12.084071789922447,0 -38.47801834344864,-12.084381277218705,0 -38.47700010985136,-12.084705189386982,0 -38.47618840634823,-12.084970744617081,0 -38.475118204951286,-12.085375306028995,0 -38.47342740744352,-12.086156232405475,0 -38.47181472927332,-12.086836508562774,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -77264,27 +77407,28 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>BACK BONE AS</name>
+          <name>BACK BONE ASU RT ARAMARI</name>
           <description>
             <![CDATA[24FO
 
 --- KEYS ---
-ID: 0814c7d8-3ba5-4847-9bc4-0462c6cbdaa0
+ID: 85e7847d-9ca4-4cbb-bc6c-c909aec70c21
 TYPE: CABO
-TIMESTAMP: 2026-04-23T09:17:45.729196
+TIMESTAMP: 2026-10-21T14:32:07.210571
 TIPO_FO: 24FO
 FIBRAS: 24
 TUBOS: 2
 FIBRAS_POR_TUBO: 12
 INSTALACAO: Aéreo
-METRAGEM: 1752.00
+METRAGEM: 1037.00
+VINCULO_INICIO: CEO:fa336015-86a7-4c67-8462-bcb2a6bca700
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.48392590880394,-12.083410521904758,0 -38.483825996518135,-12.083782956646171,0 -38.48371971398591,-12.084108180926066,0 -38.4841663017869,-12.084111787241463,0 -38.48512753844261,-12.084194404635591,0 -38.48941270262003,-12.085134667467091,0 -38.49101398140192,-12.085519885769342,0 -38.49264666066559,-12.086784031944122,0</coordinates>
+            <coordinates>-38.483724383214984,-12.084105311379036,0 -38.4841663017869,-12.084111787241463,0 -38.48512753844261,-12.084194404635591,0 -38.48941270262003,-12.085134667467091,0 -38.49101398140192,-12.085519885769342,0 -38.49264666066559,-12.086784031944122,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -77610,18 +77754,18 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>LINK CEO* P/ REMOÇÃO</name>
+          <name>LINK CEO* P/ REMOÇÃO 12FO</name>
           <description>
             <![CDATA[12FO
 
 --- KEYS ---
 ID: 46b276c5-4cfd-4a47-ac5c-c6b76f639511
 TYPE: CABO
-TIMESTAMP: 2026-06-18T16:09:56.557262
-TIPO_FO: 12FO
-FIBRAS: 12
+TIMESTAMP: 2026-10-21T14:57:33.735072
+TIPO_FO: 24FO
+FIBRAS: 24
 TUBOS: 2
-FIBRAS_POR_TUBO: 6
+FIBRAS_POR_TUBO: 12
 INSTALACAO: Aéreo
 METRAGEM: 121.00
 
@@ -77631,30 +77775,6 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           <LineString>
             <tessellate>1</tessellate>
             <coordinates>-38.49707342684269,-12.08957661062481,0 -38.49794380366802,-12.08986937172448,0 -38.49798537790775,-12.089686437054743,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>LINK CEO/BACK BONE</name>
-          <description>
-            <![CDATA[12FO
-
---- KEYS ---
-ID: 59614e64-d548-4060-ab59-c9d684296ca8
-TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 12FO
-FIBRAS: 12
-TUBOS: 2
-FIBRAS_POR_TUBO: 6
-INSTALACAO: Aéreo
-METRAGEM: 1395.00
-
-FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
-          </description>
-          <styleUrl>#cabo</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-38.48381660878658,-12.083774104770129,0 -38.483711667358875,-12.08410523030433,0 -38.483300283551216,-12.084105558151187,0 -38.48285369575024,-12.084091132888949,0 -38.48233602941037,-12.084132769439217,0 -38.48142709583044,-12.084145227618345,0 -38.481184020638466,-12.084036710301666,0 -38.479469418525696,-12.084071789922447,0 -38.47801834344864,-12.084381277218705,0 -38.47700010985136,-12.084705189386982,0 -38.47618840634823,-12.084970744617081,0 -38.475118204951286,-12.085375306028995,0 -38.47342740744352,-12.086156232405475,0 -38.47181472927332,-12.086836508562774,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -77737,20 +77857,46 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
 --- KEYS ---
 ID: 2f914dd4-7a17-478b-a160-774bebdd0e15
 TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
+TIMESTAMP: 2026-10-14T15:47:11.088572
 TIPO_FO: 2FO
 FIBRAS: 2
 TUBOS: 2
 FIBRAS_POR_TUBO: 1
 INSTALACAO: Aéreo
 METRAGEM: 80.00
+VINCULO_INICIO: CEO:6e2a6a3b-9147-4ea0-a10e-160bae9e2b4e
+VINCULO_FIM: CEO:fa336015-86a7-4c67-8462-bcb2a6bca700
 
 FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.48332308232784,-12.084091132888949,0 -38.483709655702114,-12.084091132888949,0 -38.4838105738163,-12.083762630115567,0</coordinates>
+            <coordinates>-38.483301673131734,-12.084110056465217,0 -38.483724383214984,-12.084105311379036,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>LINK CEP</name>
+          <description>
+            <![CDATA[6FO
+
+--- KEYS ---
+ID: 5d970cb5-4ae4-4289-8252-79bbcf161e1d
+TYPE: CABO
+TIMESTAMP: 2026-09-18T14:25:50.175523
+TIPO_FO: 6FO
+FIBRAS: 6
+TUBOS: 2
+FIBRAS_POR_TUBO: 3
+INSTALACAO: Aéreo
+METRAGEM: 509.00
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.50120536983013,-12.091661993731972,0 -38.50111685693264,-12.092031466452658,0 -38.501155748963356,-12.092864827183739,0 -38.502803532246425,-12.094731589562034,0 -38.503146575024545,-12.095493049555092,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -77802,38 +77948,14 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </LineString>
         </Placemark>
         <Placemark>
-          <name>LINK CEP</name>
-          <description>
-            <![CDATA[6FO
-
---- KEYS ---
-ID: 5d970cb5-4ae4-4289-8252-79bbcf161e1d
-TYPE: CABO
-TIMESTAMP: 2026-09-18T14:25:50.175523
-TIPO_FO: 6FO
-FIBRAS: 6
-TUBOS: 2
-FIBRAS_POR_TUBO: 3
-INSTALACAO: Aéreo
-METRAGEM: 509.00
-
-FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
-          </description>
-          <styleUrl>#cabo</styleUrl>
-          <LineString>
-            <tessellate>1</tessellate>
-            <coordinates>-38.50120536983013,-12.091661993731972,0 -38.50111685693264,-12.092031466452658,0 -38.501155748963356,-12.092864827183739,0 -38.502803532246425,-12.094731589562034,0 -38.503146575024545,-12.095493049555092,0</coordinates>
-          </LineString>
-        </Placemark>
-        <Placemark>
-          <name>LINK CEP/BACK BONE VOA NET</name>
+          <name>LINK CEP RUA SR. NILO</name>
           <description>
             <![CDATA[12FO
 
 --- KEYS ---
 ID: 15567753-ce8c-4da3-b7bc-f3458580f81e
 TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
+TIMESTAMP: 2026-10-21T16:27:38.463102
 TIPO_FO: 12FO
 FIBRAS: 12
 TUBOS: 2
@@ -78434,6 +78556,94 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </LineString>
         </Placemark>
         <Placemark>
+          <name>RAMAL AT</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: b65c3f42-395a-4282-acb5-f89fa280925b
+TYPE: CABO
+TIMESTAMP: 2026-10-21T16:26:07.772822
+TIPO_FO: Marcação
+FIBRAS: 0
+TUBOS: 0
+FIBRAS_POR_TUBO: 0
+INSTALACAO: Aéreo
+METRAGEM: 138.00
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.498887079140836,-12.093214721402443,0 -38.498723666113015,-12.093335745029812,0 -38.49852641098556,-12.093834112111658,0 -38.49832441616025,-12.09431305962132,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>RAMAL AT</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 30d61a51-66af-4ceb-8df2-3df64db51f2f
+TYPE: CABO
+TIMESTAMP: 2026-10-21T14:35:41.870560
+TIPO_FO: Marcação
+FIBRAS: 0
+TUBOS: 0
+FIBRAS_POR_TUBO: 0
+INSTALACAO: Aéreo
+METRAGEM: 164.00
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.483716941671844,-12.084101369162841,0 -38.48361285407009,-12.084264335292346,0 -38.4826949587492,-12.084250796256773,0 -38.482313597260294,-12.084364676339575,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>RAMAL AT</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 0e9655d0-33d2-4a98-9bde-7e71e9366430
+TYPE: CABO
+TIMESTAMP: 2026-10-21T14:39:08.036623
+TIPO_FO: 6FO
+FIBRAS: 6
+TUBOS: 2
+FIBRAS_POR_TUBO: 3
+INSTALACAO: Aéreo
+METRAGEM: 348.00
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.47948577466934,-12.084101041505571,0 -38.47941346717003,-12.084092546195825,0 -38.47857255005014,-12.084276338449412,0 -38.47801459613507,-12.084396385325132,0 -38.47753620193979,-12.084547962753255,0 -38.47711153699557,-12.084685887737619,0 -38.47704924844532,-12.084699102835009,0 -38.47704572460953,-12.084041544861774,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>RAMAL AT</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 4f0732ec-74b3-45c9-8583-a4c04e17c71c
+TYPE: CABO
+TIMESTAMP: 2026-10-21T15:48:42.265334
+TIPO_FO: 4FO
+FIBRAS: 4
+TUBOS: 2
+FIBRAS_POR_TUBO: 2
+INSTALACAO: Aéreo
+METRAGEM: 240.00
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.51933395780474,-12.072324381520183,0 -38.51952665964585,-12.071241762138223,0 -38.519780319378825,-12.070882823612816,0 -38.519957953295304,-12.070272876487762,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
           <name>RAMAL AT C6FO</name>
           <description>
             <![CDATA[--- KEYS ---
@@ -78708,6 +78918,24 @@ FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
           </description>
           <Point>
             <coordinates>-38.497110412045956,-12.093144156181978,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Reserva 59</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: 1792606780663
+TYPE: RESERVA_CABO
+TIMESTAMP: 2026-10-21T15:19:40.663992
+COR: #ff00acc1
+METROS_RESERVA: 0.00
+TIPO_RESERVA: geral
+CABO: be00e58f-39c1-4c84-b771-b9594346c270
+
+FOLDER_ID: 82cfb29e-a569-40f9-a7a5-1b4c42d25178]]>
+          </description>
+          <Point>
+            <coordinates>-38.50553056315487,-12.080612266630036,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -81336,14 +81564,15 @@ COR: default]]>
         <Placemark>
           <name>ARA-B004</name>
           <description>
-            <![CDATA[2x8
+            <![CDATA[1/8
+F ?
 
 --- KEYS ---
 ID: 8b6e92fa-1093-4440-97e7-8537c95cb5bf
 TYPE: CTO
-TIMESTAMP: 2022-04-16T21:35:17.000Z
-PORTAS: 16
-SPLITTER: 2x8
+TIMESTAMP: 2026-10-21T15:38:31.970073
+PORTAS: 8
+SPLITTER: 1:8
 LANCADA: true
 
 FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d
@@ -81385,7 +81614,7 @@ F3
 --- KEYS ---
 ID: 68076a72-10d9-4804-be2f-30e2f660a4dc
 TYPE: CTO
-TIMESTAMP: 2022-04-16T21:34:01.000Z
+TIMESTAMP: 2026-10-21T15:01:22.174733
 PORTAS: 16
 SPLITTER: 1:16
 LANCADA: true
@@ -81395,16 +81624,18 @@ COR: default]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
-            <coordinates>-38.49807523190975,-12.089351384342391,0</coordinates>
+            <coordinates>-38.498125335809746,-12.089367860364318,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
           <name>CTO</name>
           <description>
-            <![CDATA[--- KEYS ---
+            <![CDATA[POSSIVEL SPL PRIMARIO
+
+--- KEYS ---
 ID: cdb7023c-dc79-46bc-94ed-5881925d5040
 TYPE: CTO
-TIMESTAMP: 2026-03-25T18:24:27.037426
+TIMESTAMP: 2026-10-21T15:33:12.386818
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: false
@@ -81501,10 +81732,12 @@ FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
         <Placemark>
           <name>CTO04 LS</name>
           <description>
-            <![CDATA[--- KEYS ---
+            <![CDATA[1/8
+
+--- KEYS ---
 ID: 673aadea-30ab-4e9a-bf7c-baa7f7c65893
 TYPE: CTO
-TIMESTAMP: 2026-04-10T15:58:45.933403
+TIMESTAMP: 2026-10-21T15:27:48.396770
 COR: #ff827717
 PORTAS: 8
 SPLITTER: 1:8
@@ -81539,10 +81772,12 @@ FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
         <Placemark>
           <name>CTO06 LS CONFRIMA POSIÇÃO</name>
           <description>
-            <![CDATA[--- KEYS ---
+            <![CDATA[1/8
+
+--- KEYS ---
 ID: fb361787-50fa-4f7d-9abf-bfc592afadba
 TYPE: CTO
-TIMESTAMP: 2026-04-10T15:59:05.000335
+TIMESTAMP: 2026-10-21T15:28:03.216468
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: true
@@ -81980,13 +82215,13 @@ COR: default]]>
         <Placemark>
           <name>PVR-A005</name>
           <description>
-            <![CDATA[1/8
+            <![CDATA[1/8 ?
 F 3
 
 --- KEYS ---
 ID: aaabbc55-2c1b-4a35-ad3b-bc25fb73dc52
 TYPE: CTO
-TIMESTAMP: 2021-06-08T12:23:42.000Z
+TIMESTAMP: 2026-10-21T15:44:30.918097
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: true
@@ -82066,12 +82301,14 @@ COR: default]]>
           </Point>
         </Placemark>
         <Placemark>
-          <name>CEO DE EMENDA</name>
+          <name>CEO DER.</name>
           <description>
-            <![CDATA[--- KEYS ---
+            <![CDATA[F 12 - 1 ?
+
+--- KEYS ---
 ID: 7883336a-520d-47e6-83f1-5922530b79f0
 TYPE: CEO
-TIMESTAMP: 2022-04-16T18:29:06.000Z
+TIMESTAMP: 2026-10-21T15:39:00.394576
 TIPO: Aérea
 SPLITTERS_ATIVOS: 0
 
@@ -82394,20 +82631,21 @@ FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
 --- KEYS ---
 ID: 706a7c01-10da-4e29-b315-b9694db86354
 TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
+TIMESTAMP: 2026-10-14T15:47:11.114594
 TIPO_FO: 6FO
 FIBRAS: 6
 TUBOS: 2
 FIBRAS_POR_TUBO: 3
 INSTALACAO: Aéreo
 METRAGEM: 397.00
+VINCULO_INICIO: CTO:68076a72-10d9-4804-be2f-30e2f660a4dc
 
 FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.49807523190975,-12.08935138434239,0 -38.49911492317915,-12.088439658545484,0 -38.50044831633568,-12.087077473437402,0 -38.500664569437504,-12.086836836406285,0</coordinates>
+            <coordinates>-38.498125335809746,-12.089367860364318,0 -38.49911492317915,-12.088439658545484,0 -38.50044831633568,-12.087077473437402,0 -38.500664569437504,-12.086836836406285,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -82534,11 +82772,11 @@ FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
             <![CDATA[--- KEYS ---
 ID: a697774d-15e9-477d-97bf-823c352f07a3
 TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
-TIPO_FO: 24FO
-FIBRAS: 24
+TIMESTAMP: 2026-10-21T15:50:30.065621
+TIPO_FO: 6FO
+FIBRAS: 6
 TUBOS: 2
-FIBRAS_POR_TUBO: 12
+FIBRAS_POR_TUBO: 3
 INSTALACAO: Aéreo
 METRAGEM: 304.00
 
@@ -82556,20 +82794,68 @@ FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
             <![CDATA[--- KEYS ---
 ID: ee1e7fbf-63fc-4e79-b88c-ea5aada25943
 TYPE: CABO
-TIMESTAMP: 2026-01-23T19:30:03.000Z
+TIMESTAMP: 2026-10-14T15:47:11.114594
 TIPO_FO: 12FO
 FIBRAS: 12
 TUBOS: 2
 FIBRAS_POR_TUBO: 6
 INSTALACAO: Aéreo
-METRAGEM: 2437.00
+METRAGEM: 1361.00
+VINCULO_FIM: CEO:1792606556541
 
 FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
           </description>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.5162703320384,-12.073416553568974,0 -38.50798096507788,-12.077873116778555,0 -38.50579898804427,-12.079979901464135,0 -38.50410483777523,-12.084332100235809,0 -38.50455913692713,-12.084897634993606,0 -38.50239392369986,-12.085813962687258,0 -38.50190173834562,-12.086161477914978,0 -38.5017528757453,-12.08635162756552,0 -38.500664569437504,-12.086836836406286,0</coordinates>
+            <coordinates>-38.5162703320384,-12.073416553568974,0 -38.50798096507788,-12.077873116778555,0 -38.50593526726975,-12.079987143665209,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>Cabo 84 12FO</name>
+          <description>
+            <![CDATA[--- KEYS ---
+ID: ed646549-bcb9-4e56-af12-f56a6ffbe6c0
+TYPE: CABO
+TIMESTAMP: 2026-10-21T15:17:41.494994
+TIPO_FO: 12FO
+FIBRAS: 12
+TUBOS: 2
+FIBRAS_POR_TUBO: 6
+INSTALACAO: Aéreo
+METRAGEM: 560.00
+
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.50410483777523,-12.084332100235809,0 -38.50455913692713,-12.084897634993606,0 -38.50239392369986,-12.085813962687258,0 -38.50190173834562,-12.086161477914978,0 -38.5017528757453,-12.08635162756552,0 -38.500664569437504,-12.086836836406286,0</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>LANCE LINK ASU120 RT OURIÇANGAS</name>
+          <description>
+            <![CDATA[LOTE 9851
+
+--- KEYS ---
+ID: be00e58f-39c1-4c84-b771-b9594346c270
+TYPE: CABO
+TIMESTAMP: 2026-10-21T15:18:49.161207
+TIPO_FO: 12FO
+FIBRAS: 12
+TUBOS: 2
+FIBRAS_POR_TUBO: 6
+INSTALACAO: Aéreo
+METRAGEM: 523.00
+VINCULO_INICIO: CEO:1792606556541
+
+FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
+          </description>
+          <styleUrl>#cabo</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>-38.50593526726975,-12.079987143665209,0 -38.50539695573986,-12.080798581278007,0 -38.504890615674185,-12.082040502436255,0 -38.50410483777523,-12.084332100235809,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -82784,7 +83070,7 @@ FOLDER_ID: 54c65234-c89e-40aa-8a38-10e6fd64288d]]>
         </Placemark>
       </Folder>
       <Placemark>
-        <name>C6E1S2P9AT9.2</name>
+        <name>C6E1S2P9AT9.2 (NE)</name>
         <description>
           <![CDATA[1/8
 F 2
@@ -82792,7 +83078,7 @@ F 2
 --- KEYS ---
 ID: 17638d78-1988-465c-a6aa-475d6f6d8e9a
 TYPE: CTO
-TIMESTAMP: 2026-10-05T17:23:36.318598
+TIMESTAMP: 2026-10-21T16:06:40.925382
 PORTAS: 8
 SPLITTER: 1:8
 LANCADA: false
@@ -83082,25 +83368,6 @@ COR: default]]>
         </Point>
       </Placemark>
       <Placemark>
-        <name>CTO 2045</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 740fbbae-a7f5-4f1a-adcd-d9c351abe4a2
-TYPE: CTO
-TIMESTAMP: 2026-09-18T09:44:18.268904
-PORTAS: 8
-SPLITTER: 1:8
-LANCADA: false
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#cto</styleUrl>
-        <Point>
-          <coordinates>-38.4983112587827,-12.094321900091439,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>CTO 2059</name>
         <description>
           <![CDATA[--- KEYS ---
@@ -83276,87 +83543,23 @@ FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818]]>
       <Placemark>
         <name>CTO 2070</name>
         <description>
-          <![CDATA[--- KEYS ---
+          <![CDATA[1/8
+F 1
+
+--- KEYS ---
 ID: 3c7b6c81-15a7-4bd2-a7b8-5653ee7baa06
 TYPE: CTO
-TIMESTAMP: 2026-10-20T09:55:30.286409
+TIMESTAMP: 2026-10-21T15:36:11.072035
 PORTAS: 8
 SPLITTER: 1:8
-LANCADA: false
+LANCADA: true
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
 COR: default]]>
         </description>
         <styleUrl>#cto</styleUrl>
         <Point>
-          <coordinates>-38.517997105824925,-12.071187793080977,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POP MULTIRÃO</name>
-        <description>
-          <![CDATA[-D.I.O 1 12FO ALAGOINHAS
-
-SD01 LINK CHEGADA ALAGOINHAS P/XG1
-SD02 REDE COQUEIRO S2P3
-SD03
-SD04
-SD05 BOSQUE VERDE S2P4
-SD06 BAY PASSE LINK OURIÇANGAS
-SD07 MUTIRÃO REDE A S2P1
-SD08 MUTIRÃO REDE B S2P2
-SD09
-SD10 BAY PASSE VOANET ?
-SD11
-SD12
-SD09
-SD10
-SD11
-SD12
--D.I.O 02 24FO CENTRO
-
-SD01 LINK LG SECA P.GE1
-SD02 CENTRO REDE B S2P7
-SD03 CENTRO REDE A S2P8
-SD04
-SD05
-SD06 BAY PASSE LINK OURIÇANGAS
-SD07 ALTO DO CEMITERIO S2P5
-SD08 ALTO DO SAMU
-SD09
-SD10
-SD11
-SD12
-SD13 BAY PASSE VOANET ?
-SD14
-SD15
-SD16
-SD17
-SD18 FUMAÇA AT14 S2P14
-SD19 PAMEIRA AT15 S2P15
-SD20 BOA VISTA AT16 S2P16
-SD21
-SD22
-SD23
-SD24
-
---- KEYS ---
-ID: ad6c22a0-1cb8-4cf1-956d-3bb29a6e372c
-TYPE: CENTRAL
-TIMESTAMP: 2026-06-18T16:02:01.802206
-RACKS: 1
-RACK_1_NOME: Rack 1
-RACK_1_OLTS: 1
-RACK_1_OLT_1_NOME: ZTE C600
-RACK_1_OLT_1_SLOTS: 2
-RACK_1_OLT_1_PON: 32
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#olt</styleUrl>
-        <Point>
-          <coordinates>-38.48391517996788,-12.08340462064587,0</coordinates>
+          <coordinates>-38.518209734001395,-12.071460114242912,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -83666,9 +83869,9 @@ COR: default]]>
         <name>EUCALIPTO 6M</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 0ebfcfbc-803c-43f1-9c57-9e963608df1c
+ID: 3cb6e7e2-4abd-4017-aeac-2410721c1e2d
 TYPE: POSTE
-TIMESTAMP: 2026-04-01T09:16:13.806506
+TIMESTAMP: 2026-03-31T16:48:32.738296
 TIPO_POSTE: eucalipto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -83676,7 +83879,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.527407839675554,-12.141585110483033,0</coordinates>
+          <coordinates>-38.52704131944909,-12.138504662058088,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -83870,23 +84073,6 @@ COR: default]]>
         <name>EUCALIPTO 6M</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 3cb6e7e2-4abd-4017-aeac-2410721c1e2d
-TYPE: POSTE
-TIMESTAMP: 2026-03-31T16:48:32.738296
-TIPO_POSTE: eucalipto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.52704131944909,-12.138504662058088,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>EUCALIPTO 6M</name>
-        <description>
-          <![CDATA[--- KEYS ---
 ID: f58a1225-4a32-4ca6-a3c5-bd6b7b193069
 TYPE: POSTE
 TIMESTAMP: 2026-03-31T16:25:10.404513
@@ -83898,6 +84084,23 @@ COR: default]]>
         <styleUrl>#poste</styleUrl>
         <Point>
           <coordinates>-38.528813985384325,-12.134055131129104,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EUCALIPTO 6M</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 0ebfcfbc-803c-43f1-9c57-9e963608df1c
+TYPE: POSTE
+TIMESTAMP: 2026-04-01T09:16:13.806506
+TIPO_POSTE: eucalipto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.527407839675554,-12.141585110483033,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -84210,23 +84413,6 @@ COR: default]]>
         <name>POSTE</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 2a42a1f0-19ff-4183-a359-f4c2b0ca4808
-TYPE: POSTE
-TIMESTAMP: 2026-04-28T16:47:11.344498
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.49693360641934,-12.090138917678264,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE</name>
-        <description>
-          <![CDATA[--- KEYS ---
 ID: 2a613a29-415d-4a79-b813-26738048805c
 TYPE: POSTE
 TIMESTAMP: 2026-10-20T15:00:33.067810
@@ -84238,6 +84424,23 @@ COR: default]]>
         <styleUrl>#poste</styleUrl>
         <Point>
           <coordinates>-38.49320834388275,-12.087065812608907,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: a8dc26bd-92fd-4f49-a184-1a1cdffeb801
+TYPE: POSTE
+TIMESTAMP: 2026-04-28T14:49:29.503076
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.499735490626705,-12.086360242234537,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -84465,9 +84668,9 @@ COR: default]]>
         <name>POSTE</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: a8dc26bd-92fd-4f49-a184-1a1cdffeb801
+ID: 2a42a1f0-19ff-4183-a359-f4c2b0ca4808
 TYPE: POSTE
-TIMESTAMP: 2026-04-28T14:49:29.503076
+TIMESTAMP: 2026-04-28T16:47:11.344498
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -84475,7 +84678,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.499735490626705,-12.086360242234537,0</coordinates>
+          <coordinates>-38.49693360641934,-12.090138917678264,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -89195,23 +89398,6 @@ COR: default]]>
         <name>Poste 4969</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: d27981a5-443f-42e1-a07b-053b4c2338d7
-TYPE: POSTE
-TIMESTAMP: 2026-10-02T16:16:57.202496
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.4959394899229,-12.094808130524127,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Poste 4969</name>
-        <description>
-          <![CDATA[--- KEYS ---
 ID: bbf48997-dd67-4311-b5a9-9b4d4b515218
 TYPE: POSTE
 TIMESTAMP: 2026-10-05T14:31:33.273950
@@ -89223,6 +89409,23 @@ COR: default]]>
         <styleUrl>#poste</styleUrl>
         <Point>
           <coordinates>-38.49503183098794,-12.101886199194373,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 4969</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: d27981a5-443f-42e1-a07b-053b4c2338d7
+TYPE: POSTE
+TIMESTAMP: 2026-10-02T16:16:57.202496
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.4959394899229,-12.094808130524127,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -90127,6 +90330,125 @@ COR: default]]>
         </Point>
       </Placemark>
       <Placemark>
+        <name>Poste 5072</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: b4d10b21-065d-429a-8305-2cb1fb472c8e
+TYPE: POSTE
+TIMESTAMP: 2026-10-21T14:58:31.393672
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.504086744841445,-12.084332271073043,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 5073</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 729de404-12f5-48e8-a66e-e4050a19d135
+TYPE: POSTE
+TIMESTAMP: 2026-10-21T15:11:50.186713
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.50595395391066,-12.079974640292816,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 5074</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 22207a7b-6b3c-49c8-8492-8651a2bc5080
+TYPE: POSTE
+TIMESTAMP: 2026-10-21T15:19:12.067780
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.50565561710838,-12.080395086301078,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 5075</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: a6e10ea0-3095-4937-9530-172da517e9fc
+TYPE: POSTE
+TIMESTAMP: 2026-10-21T15:34:16.332503
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.518834736580224,-12.072265349265194,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 5076</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 365f6d58-b509-48cd-9b14-74573f1e6e0a
+TYPE: POSTE
+TIMESTAMP: 2026-10-21T15:34:40.763799
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.51900605530687,-12.072215094516293,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 5077</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 31c52171-b244-4496-b15f-d6340d7791f3
+TYPE: POSTE
+TIMESTAMP: 2026-10-21T15:35:10.608549
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.51849802107118,-12.071846383823674,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 5078</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 90b9e3a7-b653-44ee-9548-a0de49c1b7cf
+TYPE: POSTE
+TIMESTAMP: 2026-10-21T15:35:34.756084
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.518164510291676,-12.07141802918506,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>POSTE ARAMAI</name>
         <description>
           <![CDATA[--- KEYS ---
@@ -90147,9 +90469,9 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 4b7d62cd-06b6-4128-8e3c-8fe9de79074d
+ID: 54c5c3ba-282a-4153-ac99-0a261e779a8b
 TYPE: POSTE
-TIMESTAMP: 2026-03-31T17:09:36.080904
+TIMESTAMP: 2026-03-31T15:04:57.372606
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -90157,126 +90479,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.52652536645801,-12.141832598948827,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE ARAMARI</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 49d408d2-0600-4f2d-ab92-327edd3e25ed
-TYPE: POSTE
-TIMESTAMP: 2026-03-31T15:59:43.655187
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.531478730265015,-12.129761896256689,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE ARAMARI</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 85bc5cbf-a8d5-40bc-b4c1-ad4ccc9981cb
-TYPE: POSTE
-TIMESTAMP: 2026-03-31T16:00:15.882334
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.530997058716274,-12.13080056804735,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE ARAMARI</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: ebf56b6a-0724-419d-9cc8-785effaa6f33
-TYPE: POSTE
-TIMESTAMP: 2026-04-01T14:13:56.674613
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.52107899227199,-12.100912812624893,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE ARAMARI</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: dbf48ecb-a134-40a5-beb8-52c0a163e7b3
-TYPE: POSTE
-TIMESTAMP: 2026-03-31T15:04:39.187646
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.53548051210698,-12.108439306438145,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE ARAMARI</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 967cc1ec-e99d-4c65-aed1-77554a2b65a0
-TYPE: POSTE
-TIMESTAMP: 2026-03-31T16:02:42.113809
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.52949271740164,-12.133347642849959,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE ARAMARI</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 73b5a49b-3184-4829-843c-b143b525a7e7
-TYPE: POSTE
-TIMESTAMP: 2026-03-31T16:02:23.768131
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.52968128656692,-12.13292197745124,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE ARAMARI</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 03a8ed13-66a1-4795-af74-30bbedad851c
-TYPE: POSTE
-TIMESTAMP: 2026-03-31T15:23:00.564677
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.538432885744406,-12.10753434944148,0</coordinates>
+          <coordinates>-38.53550434704045,-12.10879768324785,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -90593,9 +90796,9 @@ FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 8f76cee0-71b8-4b96-8869-ec58ee6a519b
+ID: 7e888a77-8f50-47dc-b2b5-6718502ab790
 TYPE: POSTE
-TIMESTAMP: 2026-03-31T16:42:09.143521
+TIMESTAMP: 2026-04-01T13:32:33.917606
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -90603,7 +90806,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.535972950792406,-12.102056730721609,0</coordinates>
+          <coordinates>-38.530853461513665,-12.104772668039214,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -90680,9 +90883,9 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 7509c248-7e64-4c4f-a884-6ef34463afb4
+ID: 8f76cee0-71b8-4b96-8869-ec58ee6a519b
 TYPE: POSTE
-TIMESTAMP: 2026-04-01T09:01:24.352062
+TIMESTAMP: 2026-03-31T16:42:09.143521
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -90690,7 +90893,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.521140996978964,-12.140004577629059,0</coordinates>
+          <coordinates>-38.535972950792406,-12.102056730721609,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -91259,10 +91462,12 @@ COR: default]]>
       <Placemark>
         <name>POSTE ARAMARI</name>
         <description>
-          <![CDATA[--- KEYS ---
-ID: b4603a8d-9d4d-4e73-9512-2b1169331748
+          <![CDATA[T
+
+--- KEYS ---
+ID: 1e219295-d642-428c-a8c0-68e01f5c39c3
 TYPE: POSTE
-TIMESTAMP: 2026-03-31T15:07:22.854460
+TIMESTAMP: 2026-04-01T13:26:20.620961
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -91270,7 +91475,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.53541795971056,-12.109619026744399,0</coordinates>
+          <coordinates>-38.531477029293434,-12.109238583625347,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -91345,9 +91550,9 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 7aba62ea-05f3-4b40-aaee-5b2dc1a675a4
+ID: 5e438712-0413-4bae-ac10-4bcb6674e933
 TYPE: POSTE
-TIMESTAMP: 2026-04-01T08:43:51.670910
+TIMESTAMP: 2026-04-10T15:36:50.631433
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -91355,7 +91560,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.52369362988833,-12.140318108885799,0</coordinates>
+          <coordinates>-38.53676198083779,-12.067921718610057,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -91753,9 +91958,9 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: c727bdfe-4933-4647-93f4-33fed2056186
+ID: b4603a8d-9d4d-4e73-9512-2b1169331748
 TYPE: POSTE
-TIMESTAMP: 2026-03-31T15:21:07.978873
+TIMESTAMP: 2026-03-31T15:07:22.854460
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -91763,7 +91968,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.537347636313164,-12.109236759671342,0</coordinates>
+          <coordinates>-38.53541795971056,-12.109619026744399,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -91905,25 +92110,6 @@ COR: default]]>
       <Placemark>
         <name>POSTE ARAMARI</name>
         <description>
-          <![CDATA[T
-
---- KEYS ---
-ID: 1e219295-d642-428c-a8c0-68e01f5c39c3
-TYPE: POSTE
-TIMESTAMP: 2026-04-01T13:26:20.620961
-TIPO_POSTE: concreto
-
-FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.531477029293434,-12.109238583625347,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE ARAMARI</name>
-        <description>
           <![CDATA[TRANSFORMADOR
 
 --- KEYS ---
@@ -92046,6 +92232,23 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
+ID: 7aba62ea-05f3-4b40-aaee-5b2dc1a675a4
+TYPE: POSTE
+TIMESTAMP: 2026-04-01T08:43:51.670910
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.52369362988833,-12.140318108885799,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE ARAMARI</name>
+        <description>
+          <![CDATA[--- KEYS ---
 ID: 40014594-bac7-424d-9b07-dbc28c006f77
 TYPE: POSTE
 TIMESTAMP: 2026-04-01T14:11:56.093754
@@ -92148,9 +92351,9 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: dc0eda97-a99b-4828-995f-8229ffb62184
+ID: adc07040-621f-4349-8d32-ffd7a58f757d
 TYPE: POSTE
-TIMESTAMP: 2026-04-01T08:42:40.184592
+TIMESTAMP: 2026-03-31T15:41:56.152027
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -92158,7 +92361,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.524602588032096,-12.140031606660084,0</coordinates>
+          <coordinates>-38.5342994538515,-12.115827409642081,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -92233,9 +92436,9 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 4fba49b0-e6f0-4ea3-90be-e273d8320fda
+ID: dc0eda97-a99b-4828-995f-8229ffb62184
 TYPE: POSTE
-TIMESTAMP: 2026-03-31T15:43:37.930576
+TIMESTAMP: 2026-04-01T08:42:40.184592
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -92243,7 +92446,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.53461118746103,-12.120158456294726,0</coordinates>
+          <coordinates>-38.524602588032096,-12.140031606660084,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -92352,9 +92555,9 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: b35c8e33-068b-4673-a378-c2109699fb95
+ID: 4b7d62cd-06b6-4128-8e3c-8fe9de79074d
 TYPE: POSTE
-TIMESTAMP: 2026-03-31T16:30:25.936737
+TIMESTAMP: 2026-03-31T17:09:36.080904
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -92362,7 +92565,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.53021254295686,-12.13204364359143,0</coordinates>
+          <coordinates>-38.52652536645801,-12.141832598948827,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -92437,9 +92640,9 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 54c5c3ba-282a-4153-ac99-0a261e779a8b
+ID: b35c8e33-068b-4673-a378-c2109699fb95
 TYPE: POSTE
-TIMESTAMP: 2026-03-31T15:04:57.372606
+TIMESTAMP: 2026-03-31T16:30:25.936737
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -92447,7 +92650,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.53550434704045,-12.10879768324785,0</coordinates>
+          <coordinates>-38.53021254295686,-12.13204364359143,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -92558,9 +92761,9 @@ COR: default]]>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 5e438712-0413-4bae-ac10-4bcb6674e933
+ID: 49d408d2-0600-4f2d-ab92-327edd3e25ed
 TYPE: POSTE
-TIMESTAMP: 2026-04-10T15:36:50.631433
+TIMESTAMP: 2026-03-31T15:59:43.655187
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -92568,16 +92771,16 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.53676198083779,-12.067921718610057,0</coordinates>
+          <coordinates>-38.531478730265015,-12.129761896256689,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 7e888a77-8f50-47dc-b2b5-6718502ab790
+ID: 85bc5cbf-a8d5-40bc-b4c1-ad4ccc9981cb
 TYPE: POSTE
-TIMESTAMP: 2026-04-01T13:32:33.917606
+TIMESTAMP: 2026-03-31T16:00:15.882334
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -92585,16 +92788,16 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.530853461513665,-12.104772668039214,0</coordinates>
+          <coordinates>-38.530997058716274,-12.13080056804735,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>POSTE ARAMARI</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: adc07040-621f-4349-8d32-ffd7a58f757d
+ID: ebf56b6a-0724-419d-9cc8-785effaa6f33
 TYPE: POSTE
-TIMESTAMP: 2026-03-31T15:41:56.152027
+TIMESTAMP: 2026-04-01T14:13:56.674613
 TIPO_POSTE: concreto
 
 FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
@@ -92602,7 +92805,126 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.5342994538515,-12.115827409642081,0</coordinates>
+          <coordinates>-38.52107899227199,-12.100912812624893,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE ARAMARI</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: dbf48ecb-a134-40a5-beb8-52c0a163e7b3
+TYPE: POSTE
+TIMESTAMP: 2026-03-31T15:04:39.187646
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.53548051210698,-12.108439306438145,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE ARAMARI</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 967cc1ec-e99d-4c65-aed1-77554a2b65a0
+TYPE: POSTE
+TIMESTAMP: 2026-03-31T16:02:42.113809
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.52949271740164,-12.133347642849959,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE ARAMARI</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 73b5a49b-3184-4829-843c-b143b525a7e7
+TYPE: POSTE
+TIMESTAMP: 2026-03-31T16:02:23.768131
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.52968128656692,-12.13292197745124,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE ARAMARI</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 03a8ed13-66a1-4795-af74-30bbedad851c
+TYPE: POSTE
+TIMESTAMP: 2026-03-31T15:23:00.564677
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.538432885744406,-12.10753434944148,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE ARAMARI</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: c727bdfe-4933-4647-93f4-33fed2056186
+TYPE: POSTE
+TIMESTAMP: 2026-03-31T15:21:07.978873
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.537347636313164,-12.109236759671342,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE ARAMARI</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 7509c248-7e64-4c4f-a884-6ef34463afb4
+TYPE: POSTE
+TIMESTAMP: 2026-04-01T09:01:24.352062
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.521140996978964,-12.140004577629059,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE ARAMARI</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 4fba49b0-e6f0-4ea3-90be-e273d8320fda
+TYPE: POSTE
+TIMESTAMP: 2026-03-31T15:43:37.930576
+TIPO_POSTE: concreto
+
+FOLDER_ID: 7166aab7-4974-48c8-adf9-7cd8c869b818
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.53461118746103,-12.120158456294726,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
