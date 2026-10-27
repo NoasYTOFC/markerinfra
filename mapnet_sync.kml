@@ -80579,6 +80579,32 @@ FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3]]>
           </Point>
         </Placemark>
         <Placemark>
+          <name>CEO 532 SAÍDA POP</name>
+          <description>
+            <![CDATA[ENT1 ROLETADA (CABO1,2 D.I.O)
+ENT3 2 DERIVAÇÕES
+-DER1 CABO1 12 REDE DA PISTA
+-DER2 CABO2 12 RT AGUA FUNDA
+
+-BANDEJA1 CABO1 D.I.O / REDE PISTA
+-BANDEJA2 CABO2 D.I.O / 12FO RT AGUA FUNDA
+
+--- KEYS ---
+ID: 1793122915587
+TYPE: CEO
+TIMESTAMP: 2026-10-27T14:41:55.587578
+TIPO: Aérea
+SPLITTERS_ATIVOS: 0
+
+FOLDER_ID: c96d7471-ab5e-44be-ae42-43a4406628d3
+COR: default]]>
+          </description>
+          <styleUrl>#ceo</styleUrl>
+          <Point>
+            <coordinates>-38.57851802257142,-12.011398367903764,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
           <name>CEO RIACHO 03</name>
           <description>
             <![CDATA[F 1,2 > 1,2 LINK
