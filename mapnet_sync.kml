@@ -73106,13 +73106,13 @@ COR: default]]>
         <Placemark>
           <name>C8E1S1P3AT5.8</name>
           <description>
-            <![CDATA[1/8
+            <![CDATA[1/16
 F 1
 
 --- KEYS ---
 ID: d3dc2cfa-a8e3-4b59-91b7-4143c49aa3e2
 TYPE: CTO
-TIMESTAMP: 2026-06-08T10:49:53.151436
+TIMESTAMP: 2026-11-03T16:55:19.848944
 COR: #ff1976d2
 PORTAS: 8
 SPLITTER: 1:8
