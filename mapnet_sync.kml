@@ -5532,7 +5532,7 @@ F 1
 --- KEYS ---
 ID: d2de507e-1598-4b41-ace2-9bbc53234bb1
 TYPE: CTO
-TIMESTAMP: 2026-07-10T11:18:10.920986
+TIMESTAMP: 2026-11-02T20:53:51.409241
 PORTAS: 16
 SPLITTER: 1:16
 LANCADA: false
@@ -5542,7 +5542,7 @@ COR: default]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
-            <coordinates>-38.764318581749166,-11.86890478504549,0</coordinates>
+            <coordinates>-38.7646310658975,-11.869157177845587,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -5554,7 +5554,7 @@ F 2
 --- KEYS ---
 ID: fdeda7c1-f3b0-4e9a-ba87-28e26251b229
 TYPE: CTO
-TIMESTAMP: 2026-07-10T11:24:25.135106
+TIMESTAMP: 2026-11-02T20:51:43.115351
 PORTAS: 16
 SPLITTER: 1:16
 LANCADA: false
@@ -5564,7 +5564,7 @@ COR: default]]>
           </description>
           <styleUrl>#cto</styleUrl>
           <Point>
-            <coordinates>-38.76435600598427,-11.86968369519266,0</coordinates>
+            <coordinates>-38.76425927321502,-11.869362769556995,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
@@ -7471,10 +7471,15 @@ COLT.AT24FO G3,4 8FS
 --- KEYS ---
 ID: 43650aa3-ffea-47f9-9761-8e7af3d0f9f1
 TYPE: CEO
-TIMESTAMP: 2026-10-30T08:22:36.884331
-COR: #ff050505
+TIMESTAMP: 2026-11-02T20:50:22.013194
+COR: #ff3f51b5
 TIPO: Aérea
-SPLITTERS_ATIVOS: 0
+SPLITTERS_COUNT: 3
+SPLITTER_1: Splitter 1 AT18 S2P2|8|0
+SPLITTER_2: Splitter 2 AT19 S2P3|8|0
+SPLITTER_3: Splitter 3 AT20 S2P4|8|0
+SPLITTERS_ATIVOS: 1
+SPLITTERS_CONFIG: 3x (24 slots)
 
 FOLDER_ID: e69ee109-d94b-43d1-b9d5-40129534b070]]>
           </description>
@@ -9076,7 +9081,7 @@ FOLDER_ID: e69ee109-d94b-43d1-b9d5-40129534b070]]>
             <![CDATA[--- KEYS ---
 ID: 1de03c5f-256d-479d-9a9b-6a51c5932a3a
 TYPE: CABO
-TIMESTAMP: 2026-10-10T21:08:54.665499
+TIMESTAMP: 2026-10-30T09:48:17.610887
 TIPO_FO: Marcação
 FIBRAS: 0
 TUBOS: 0
@@ -9089,7 +9094,7 @@ FOLDER_ID: e69ee109-d94b-43d1-b9d5-40129534b070]]>
           <styleUrl>#cabo</styleUrl>
           <LineString>
             <tessellate>1</tessellate>
-            <coordinates>-38.76346494520073,-11.869516357009802,0 -38.76353510817872,-11.869896914760295,0 -38.763771211590004,-11.86987130626286,0 -38.7640079991174,-11.869869898209027,0 -38.763888818503474,-11.869454985619626,0 -38.76376902964201,-11.869110081842432,0 -38.76408942309394,-11.86899047877349,0 -38.764318581749166,-11.86890478504549,0 -38.764104802816064,-11.868993307230387,0 -38.76435600598427,-11.86968369519266,0</coordinates>
+            <coordinates>-38.76346494520073,-11.869516357009802,0 -38.76353510817872,-11.869896914760295,0 -38.763771211590004,-11.86987130626286,0 -38.7640079991174,-11.869869898209027,0 -38.763888818503474,-11.869454985619626,0 -38.76376902964201,-11.869110081842432,0 -38.764099699337464,-11.868988227596835,0 -38.76426148623718,-11.8693634774695,0 -38.764105551224205,-11.868987257857532,0 -38.76451121928637,-11.868822045100595,0 -38.76464309882372,-11.869148813681408,0</coordinates>
           </LineString>
         </Placemark>
         <Placemark>
@@ -10552,23 +10557,6 @@ COR: default]]>
         <name>POSTE</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 1d9cc9cf-1e83-4d7f-a095-85eae707e50a
-TYPE: POSTE
-TIMESTAMP: 2026-04-29T16:42:08.061567
-TIPO_POSTE: concreto
-
-FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.76083913082694,-11.867827010784913,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE</name>
-        <description>
-          <![CDATA[--- KEYS ---
 ID: f95d9677-d180-4a87-9b3f-5b79c94b7b5e
 TYPE: POSTE
 TIMESTAMP: 2026-04-29T16:40:48.001511
@@ -10580,6 +10568,23 @@ COR: default]]>
         <styleUrl>#poste</styleUrl>
         <Point>
           <coordinates>-38.7609633386744,-11.86859562489904,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 1d9cc9cf-1e83-4d7f-a095-85eae707e50a
+TYPE: POSTE
+TIMESTAMP: 2026-04-29T16:42:08.061567
+TIPO_POSTE: concreto
+
+FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.76083913082694,-11.867827010784913,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -12014,6 +12019,40 @@ COR: default]]>
         <styleUrl>#poste</styleUrl>
         <Point>
           <coordinates>-38.75495423221064,-11.863883959878462,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 5156</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 163bb660-6e2a-41b6-b56b-9e3cadded858
+TYPE: POSTE
+TIMESTAMP: 2026-11-02T20:54:01.464612
+TIPO_POSTE: concreto
+
+FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.764511675904245,-11.86883766311482,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 5157</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 419ae43c-14bc-46e3-8f77-3bafe8f3cad9
+TYPE: POSTE
+TIMESTAMP: 2026-11-02T20:54:17.333915
+TIPO_POSTE: concreto
+
+FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.76464740295085,-11.869160743202539,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -13856,9 +13895,9 @@ COR: default]]>
         <name>POSTE AGUA FRIA</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 0da7d8fa-169d-4fd1-be3d-7722c3a022ce
+ID: f6ff3405-85bb-4714-a862-12fd9de8da74
 TYPE: POSTE
-TIMESTAMP: 2026-03-24T09:02:51.216893
+TIMESTAMP: 2026-03-24T08:54:01.757178
 TIPO_POSTE: concreto
 
 FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
@@ -13866,41 +13905,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.78104458972405,-11.889245650266277,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE AGUA FRIA</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 93abadad-808a-4bfc-b202-e702d41be010
-TYPE: POSTE
-TIMESTAMP: 2026-03-24T09:42:58.413190
-TIPO_POSTE: concreto
-
-FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.802316954467784,-11.886377883725958,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>POSTE AGUA FRIA</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: dd25ba4e-ae4c-4bd5-b74f-6c76965ff578
-TYPE: POSTE
-TIMESTAMP: 2026-03-10T15:13:10.755597
-TIPO_POSTE: concreto
-
-FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.78392937263869,-11.875260587096028,0</coordinates>
+          <coordinates>-38.77875685654183,-11.88947681354959,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -13941,9 +13946,9 @@ COR: default]]>
         <name>POSTE AGUA FRIA</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 4ee56fe9-f94e-4029-b527-9c278e6460d6
+ID: 0da7d8fa-169d-4fd1-be3d-7722c3a022ce
 TYPE: POSTE
-TIMESTAMP: 2026-03-18T14:22:54.120352
+TIMESTAMP: 2026-03-24T09:02:51.216893
 TIPO_POSTE: concreto
 
 FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
@@ -13951,7 +13956,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.77119155052207,-11.885765605630773,0</coordinates>
+          <coordinates>-38.78104458972405,-11.889245650266277,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -14030,9 +14035,9 @@ COR: default]]>
         <name>POSTE AGUA FRIA</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: f6ff3405-85bb-4714-a862-12fd9de8da74
+ID: 4ee56fe9-f94e-4029-b527-9c278e6460d6
 TYPE: POSTE
-TIMESTAMP: 2026-03-24T08:54:01.757178
+TIMESTAMP: 2026-03-18T14:22:54.120352
 TIPO_POSTE: concreto
 
 FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
@@ -14040,7 +14045,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.77875685654183,-11.88947681354959,0</coordinates>
+          <coordinates>-38.77119155052207,-11.885765605630773,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -14153,9 +14158,9 @@ COR: default]]>
         <name>POSTE AGUA FRIA</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 5e366460-be0b-41e4-ab47-2f3aa8ae2361
+ID: 7ca997af-ec2a-4cda-886d-ec6fbd65b78e
 TYPE: POSTE
-TIMESTAMP: 2026-03-18T17:08:46.654275
+TIMESTAMP: 2026-03-24T09:17:33.996051
 TIPO_POSTE: concreto
 
 FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
@@ -14163,7 +14168,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.77682445041327,-11.889794538837384,0</coordinates>
+          <coordinates>-38.78455024587016,-11.88985214435988,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -14206,9 +14211,9 @@ COR: default]]>
         <name>POSTE AGUA FRIA</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 807f9011-2b22-431a-a302-5f0892ee7691
+ID: 93abadad-808a-4bfc-b202-e702d41be010
 TYPE: POSTE
-TIMESTAMP: 2026-03-10T15:24:41.939077
+TIMESTAMP: 2026-03-24T09:42:58.413190
 TIPO_POSTE: concreto
 
 FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
@@ -14216,7 +14221,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.78243925164635,-11.876147329743414,0</coordinates>
+          <coordinates>-38.802316954467784,-11.886377883725958,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -14240,9 +14245,9 @@ COR: default]]>
         <name>POSTE AGUA FRIA</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 7502061a-bb4e-40c4-8b1b-1f9267cbf1c6
+ID: 696f493f-f24e-4d72-9808-55431b9960ad
 TYPE: POSTE
-TIMESTAMP: 2026-03-18T17:15:39.029027
+TIMESTAMP: 2026-03-18T17:10:17.525357
 TIPO_POSTE: concreto
 
 FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
@@ -14250,7 +14255,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.777215676610176,-11.889708747747415,0</coordinates>
+          <coordinates>-38.77658904281796,-11.889823668895074,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -14293,9 +14298,9 @@ COR: default]]>
         <name>POSTE AGUA FRIA</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 6063337c-0daa-46ea-84ff-80db00fea29e
+ID: dd25ba4e-ae4c-4bd5-b74f-6c76965ff578
 TYPE: POSTE
-TIMESTAMP: 2026-03-10T14:44:48.578937
+TIMESTAMP: 2026-03-10T15:13:10.755597
 TIPO_POSTE: concreto
 
 FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
@@ -14303,7 +14308,7 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.77918604340032,-11.880357916786577,0</coordinates>
+          <coordinates>-38.78392937263869,-11.875260587096028,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -14382,9 +14387,9 @@ COR: default]]>
         <name>POSTE AGUA FRIA</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 7ca997af-ec2a-4cda-886d-ec6fbd65b78e
+ID: 5e366460-be0b-41e4-ab47-2f3aa8ae2361
 TYPE: POSTE
-TIMESTAMP: 2026-03-24T09:17:33.996051
+TIMESTAMP: 2026-03-18T17:08:46.654275
 TIPO_POSTE: concreto
 
 FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
@@ -14392,16 +14397,16 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.78455024587016,-11.88985214435988,0</coordinates>
+          <coordinates>-38.77682445041327,-11.889794538837384,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>POSTE AGUA FRIA</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 696f493f-f24e-4d72-9808-55431b9960ad
+ID: 7502061a-bb4e-40c4-8b1b-1f9267cbf1c6
 TYPE: POSTE
-TIMESTAMP: 2026-03-18T17:10:17.525357
+TIMESTAMP: 2026-03-18T17:15:39.029027
 TIPO_POSTE: concreto
 
 FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
@@ -14409,7 +14414,41 @@ COR: default]]>
         </description>
         <styleUrl>#poste</styleUrl>
         <Point>
-          <coordinates>-38.77658904281796,-11.889823668895074,0</coordinates>
+          <coordinates>-38.777215676610176,-11.889708747747415,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE AGUA FRIA</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 807f9011-2b22-431a-a302-5f0892ee7691
+TYPE: POSTE
+TIMESTAMP: 2026-03-10T15:24:41.939077
+TIPO_POSTE: concreto
+
+FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.78243925164635,-11.876147329743414,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>POSTE AGUA FRIA</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 6063337c-0daa-46ea-84ff-80db00fea29e
+TYPE: POSTE
+TIMESTAMP: 2026-03-10T14:44:48.578937
+TIPO_POSTE: concreto
+
+FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.77918604340032,-11.880357916786577,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -14427,23 +14466,6 @@ FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17]]>
         <styleUrl>#poste</styleUrl>
         <Point>
           <coordinates>-38.78303050802297,-11.876125119027648,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>T</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 311058bc-2462-445a-b733-8c812342d60f
-TYPE: POSTE
-TIMESTAMP: 2026-02-02T17:31:43.746802
-TIPO_POSTE: concreto
-
-FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.751714669035266,-11.869617250074686,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -14733,6 +14755,23 @@ COR: default]]>
         <styleUrl>#poste</styleUrl>
         <Point>
           <coordinates>-38.79674437124274,-11.872680610802906,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 311058bc-2462-445a-b733-8c812342d60f
+TYPE: POSTE
+TIMESTAMP: 2026-02-02T17:31:43.746802
+TIPO_POSTE: concreto
+
+FOLDER_ID: 1e208b9d-f085-4ac1-b098-4cf29e4f2c17
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.751714669035266,-11.869617250074686,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -107467,40 +107506,6 @@ COR: default]]>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Poste 435</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 7e15cde1-4d3f-4a7c-9ccf-2e265fed3627
-TYPE: POSTE
-TIMESTAMP: 2026-06-01T08:41:34.912468
-TIPO_POSTE: concreto
-
-FOLDER_ID: b6e8baf4-bce3-4246-ab92-deda16458b98
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.764356766219386,-11.869690912832484,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Poste 436</name>
-        <description>
-          <![CDATA[--- KEYS ---
-ID: 33523245-476b-4514-b20f-79d9ef2d729b
-TYPE: POSTE
-TIMESTAMP: 2026-02-02T17:31:27.775530
-TIPO_POSTE: concreto
-
-FOLDER_ID: b6e8baf4-bce3-4246-ab92-deda16458b98
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.764389164450044,-11.869791241764826,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Poste 437</name>
         <description>
           <![CDATA[--- KEYS ---
@@ -107589,23 +107594,6 @@ COR: default]]>
         <name>Poste 4376</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 1d916c11-0462-42b6-bd81-4c57eb65e8d4
-TYPE: POSTE
-TIMESTAMP: 2026-05-12T15:21:02.632638
-TIPO_POSTE: concreto
-
-FOLDER_ID: b6e8baf4-bce3-4246-ab92-deda16458b98
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.75947804756496,-11.871374291507696,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Poste 4376</name>
-        <description>
-          <![CDATA[--- KEYS ---
 ID: 93b47b4c-0604-443f-82f6-3fd00ab384c1
 TYPE: POSTE
 TIMESTAMP: 2026-05-12T15:04:15.304364
@@ -107617,6 +107605,23 @@ COR: default]]>
         <styleUrl>#poste</styleUrl>
         <Point>
           <coordinates>-38.76428074729195,-11.876358724236397,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 4376</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 1d916c11-0462-42b6-bd81-4c57eb65e8d4
+TYPE: POSTE
+TIMESTAMP: 2026-05-12T15:21:02.632638
+TIPO_POSTE: concreto
+
+FOLDER_ID: b6e8baf4-bce3-4246-ab92-deda16458b98
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.75947804756496,-11.871374291507696,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -109136,23 +109141,6 @@ COR: default]]>
         <name>Poste 4978</name>
         <description>
           <![CDATA[--- KEYS ---
-ID: 13d5f40a-630b-46a2-8056-8d746a360aea
-TYPE: POSTE
-TIMESTAMP: 2026-10-09T10:38:44.177833
-TIPO_POSTE: concreto
-
-FOLDER_ID: b6e8baf4-bce3-4246-ab92-deda16458b98
-COR: default]]>
-        </description>
-        <styleUrl>#poste</styleUrl>
-        <Point>
-          <coordinates>-38.76282867165658,-11.871720719202603,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Poste 4978</name>
-        <description>
-          <![CDATA[--- KEYS ---
 ID: 9f695f0d-ac63-4943-96a7-3211252754f8
 TYPE: POSTE
 TIMESTAMP: 2026-10-09T14:16:23.700409
@@ -109164,6 +109152,23 @@ COR: default]]>
         <styleUrl>#poste</styleUrl>
         <Point>
           <coordinates>-38.76185127535217,-11.871094471803811,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poste 4978</name>
+        <description>
+          <![CDATA[--- KEYS ---
+ID: 13d5f40a-630b-46a2-8056-8d746a360aea
+TYPE: POSTE
+TIMESTAMP: 2026-10-09T10:38:44.177833
+TIPO_POSTE: concreto
+
+FOLDER_ID: b6e8baf4-bce3-4246-ab92-deda16458b98
+COR: default]]>
+        </description>
+        <styleUrl>#poste</styleUrl>
+        <Point>
+          <coordinates>-38.76282867165658,-11.871720719202603,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
