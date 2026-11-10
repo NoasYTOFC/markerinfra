@@ -5575,11 +5575,13 @@ COR: default]]>
           <name>C16E1S2P2AT18.5</name>
           <description>
             <![CDATA[1/16
+F 3
+F 4,5,6,7,8,9 - 1,2,3,4,5,6
 
 --- KEYS ---
 ID: c291da9c-889e-4680-a5a1-317631a0a8be
 TYPE: CTO
-TIMESTAMP: 2026-07-10T11:11:26.036967
+TIMESTAMP: 2026-11-10T08:11:09.705433
 PORTAS: 16
 SPLITTER: 1:16
 LANCADA: false
@@ -5595,10 +5597,13 @@ COR: default]]>
         <Placemark>
           <name>C16E1S2P2AT18.6</name>
           <description>
-            <![CDATA[--- KEYS ---
+            <![CDATA[1/16
+F 1
+
+--- KEYS ---
 ID: 2deea253-52a9-4d6d-8a85-a9588c3a400b
 TYPE: CTO
-TIMESTAMP: 2026-07-10T11:11:49.385367
+TIMESTAMP: 2026-11-10T08:11:35.899345
 PORTAS: 16
 SPLITTER: 1:16
 LANCADA: false
@@ -5615,34 +5620,12 @@ COR: default]]>
           <name>C16E1S2P2AT18.7</name>
           <description>
             <![CDATA[1/16
-F 1
-
---- KEYS ---
-ID: d2de507e-1598-4b41-ace2-9bbc53234bb1
-TYPE: CTO
-TIMESTAMP: 2026-11-02T20:53:51.409241
-PORTAS: 16
-SPLITTER: 1:16
-LANCADA: false
-
-FOLDER_ID: e69ee109-d94b-43d1-b9d5-40129534b070
-COR: default]]>
-          </description>
-          <styleUrl>#cto</styleUrl>
-          <Point>
-            <coordinates>-38.7646310658975,-11.869157177845587,0</coordinates>
-          </Point>
-        </Placemark>
-        <Placemark>
-          <name>C16E1S2P2AT18.8</name>
-          <description>
-            <![CDATA[1/16
 F 2
 
 --- KEYS ---
 ID: fdeda7c1-f3b0-4e9a-ba87-28e26251b229
 TYPE: CTO
-TIMESTAMP: 2026-11-02T20:51:43.115351
+TIMESTAMP: 2026-11-10T08:12:49.097173
 PORTAS: 16
 SPLITTER: 1:16
 LANCADA: false
@@ -5653,6 +5636,28 @@ COR: default]]>
           <styleUrl>#cto</styleUrl>
           <Point>
             <coordinates>-38.76425927321502,-11.869362769556995,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>C16E1S2P2AT18.8</name>
+          <description>
+            <![CDATA[1/16
+F 3
+
+--- KEYS ---
+ID: d2de507e-1598-4b41-ace2-9bbc53234bb1
+TYPE: CTO
+TIMESTAMP: 2026-11-10T08:13:06.373277
+PORTAS: 16
+SPLITTER: 1:16
+LANCADA: false
+
+FOLDER_ID: e69ee109-d94b-43d1-b9d5-40129534b070
+COR: default]]>
+          </description>
+          <styleUrl>#cto</styleUrl>
+          <Point>
+            <coordinates>-38.7646310658975,-11.869157177845587,0</coordinates>
           </Point>
         </Placemark>
         <Placemark>
